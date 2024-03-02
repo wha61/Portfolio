@@ -40,7 +40,6 @@ Stack: Angular, Bootstrap, ChartJS.
 <a target="_blank" href="https://github.com/wha61/Covid-19-DataViewerCanada">GitHub</a>
 
 ## Recipe
-![[covid.png]]
 ![DEMO](RecipeDemo.gif)
 
 A full stack recipe app using the PEAN stack (PostgreSQL, Express framework, NodeJS, and Angular as the frontend framework), encapsulated in Docker containers for both frontend and backend, and deployed on Docker Hub.
