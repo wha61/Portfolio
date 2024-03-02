@@ -30,7 +30,17 @@ Stack: Spring Boot, Java, HTML/CSS/JavaScript.
 
 <a target="_blank" href="https://github.com/wha61/Course-Planner">GitHub</a>
 
+## Covid-19-DataViewerCanada
+![[covid.png]]
+
+A frontend web app using Angular framework and ChartJs that achieve COVID-19 data viewer function for Canada, will display COVID-19 statistics by regions in Canada while allowing users to filter and save the data for a given time period. This is done by leveraging two web APIs: a data manager API, and the Canada open-covid API (https://opencovid.ca/api/)
+
+Stack: Angular, Bootstrap, ChartJS.
+
+<a target="_blank" href="https://github.com/wha61/Covid-19-DataViewerCanada">GitHub</a>
+
 ## Recipe
+![[covid.png]]
 ![DEMO](RecipeDemo.gif)
 
 A full stack recipe app using the PEAN stack (PostgreSQL, Express framework, NodeJS, and Angular as the frontend framework), encapsulated in Docker containers for both frontend and backend, and deployed on Docker Hub.
@@ -63,4 +73,23 @@ Stack: Kotlin, Android SDK, MVVM Design pattern.
 
 <a target="_blank" href="https://github.com/wha61/MyRuns-Fitness-AndroidAPP">GitHub</a>&emsp;
 <a target="_blank" href="https://github.com/wha61/MyRuns-Fitness-AndroidAPP/blob/main/app-debug.apk">Apk Download</a>&emsp;
+
+## C-Shell
+![DEMO](cshell.png)
+
+A command-line interpreter or shell supporting the environment variables, history of executed commands, and basic shell functionalities.
+
+Stack: C, Linux/Unix
+
+<a target="_blank" href="https://github.com/wha61/CShell">GitHub</a>
+
+## Lets-Talk
+![DEMO](letstalk1.png)
+![DEMO](letstalk2.png)
+
+A chatroom with many features built in C implemented with multithreading concepts and UDP. This chatroom enables a user at one terminal to communicate with a user at another terminal.
+
+Stack: C, Linux/Unix, Multithreading, UDP
+
+<a target="_blank" href="https://github.com/wha61/Lets-Talk">GitHub</a>
 
