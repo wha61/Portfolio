@@ -39,6 +39,15 @@ Stack: Angular, Bootstrap, ChartJS.
 
 <a target="_blank" href="https://github.com/wha61/Covid-19-DataViewerCanada">GitHub</a>
 
+## Chatroom 1.0
+![[chat.png]]
+
+A dynamic and interactive web application designed to facilitate real-time communication among users. Utilizing a robust stack of eact, NodeJs, and MySQL, this project aims to provide a seamless chat experience with a focus on security, efficiency, and user-friendly design.
+
+Stack: React, NodeJs, Express, Socket.io, Encryption.
+
+<a target="_blank" href="https://github.com/wha61/Covid-19-DataViewerCanada">GitHub</a>
+
 ## Recipe
 ![DEMO](RecipeDemo.gif)
 
@@ -46,7 +55,7 @@ A full stack recipe app using the PEAN stack (PostgreSQL, Express framework, Nod
 
 Stack: PostgreSQL, Express, NodeJS, Angular, Docker, Docker Compose
 
-<a target="_blank" href="https://github.com/wha61/Recipe-PEANstack-WebApp">GitHub</a>
+<a target="_blank" href="https://github.com/wha61/Chatroom">GitHub</a>
 
 ## Flame 
 ![[flame.png]]
