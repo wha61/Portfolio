@@ -46,7 +46,7 @@ A dynamic and interactive web application designed to facilitate real-time commu
 
 Stack: React, NodeJs, Express, Socket.io, Encryption.
 
-<a target="_blank" href="https://github.com/wha61/Covid-19-DataViewerCanada">GitHub</a>
+<a target="_blank" href="https://github.com/wha61/Chatroom">GitHub</a>
 
 ## Recipe
 ![DEMO](RecipeDemo.gif)
@@ -55,7 +55,7 @@ A full stack recipe app using the PEAN stack (PostgreSQL, Express framework, Nod
 
 Stack: PostgreSQL, Express, NodeJS, Angular, Docker, Docker Compose
 
-<a target="_blank" href="https://github.com/wha61/Chatroom">GitHub</a>
+<a target="_blank" href="https://github.com/wha61/Recipe-PEANstack-WebApp">GitHub</a>
 
 ## Flame 
 ![[flame.png]]
