@@ -12,13 +12,16 @@ For detailed information you can check the Github link below each project.
 ---
 
 ## Festival Planner
-![[festivie_main.png]]
+
+<iframe src="festivie.html" width="100%" height="400px" frameborder="0"></iframe>
+
 
 A MERN stack web application designed to enhance the festival-going experience for both organizers and attendees. Acting as a comprehensive hub, it offers real-time updates and personalized planning tools tailored to various large-scale events, including music festivals, conventions, and carnivals.
 
 Stack: React, NodeJS, Express, MongoDB, Docker, GCP, Web Socket, GitLab Actions    
 
-<a target="_blank" href="https://github.com/wha61/FestivalPlanner-MERNstack">GitHub</a>
+<a target="_blank" href="https://github.com/wha61/FestivalPlanner-MERNstack">GitHub</a>&emsp;
+<a target="_blank" href="http://47.120.67.126:3000/">Demo</a>
 
 ## Course-Planner 
 ![[cp_demo1.png]]
