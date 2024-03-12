@@ -41,10 +41,14 @@ A frontend web app using Angular framework and ChartJs that achieve COVID-19 dat
 
 Stack: Angular, Bootstrap, ChartJS.
 
-<a target="_blank" href="https://github.com/wha61/Covid-19-DataViewerCanada">GitHub</a>
+<a target="_blank" href="https://github.com/wha61/Covid-19-DataViewerCanada">GitHub</a>&emsp;
+<a target="_blank" href="http://47.120.67.126:81/">Demo</a>
 
 ## Chatroom 1.0
-![[chat.png]]
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="chatroom.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
 
 A dynamic and interactive web application designed to facilitate real-time communication among users. Utilizing a robust stack of eact, NodeJs, and MySQL, this project aims to provide a seamless chat experience with a focus on security, efficiency, and user-friendly design.
 
