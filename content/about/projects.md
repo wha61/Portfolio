@@ -13,8 +13,9 @@ For detailed information you can check the Github link below each project.
 
 ## Festival Planner
 
-<iframe src="festivie.html" width="100%" height="400px" frameborder="0"></iframe>
-
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="festivie.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
 
 A MERN stack web application designed to enhance the festival-going experience for both organizers and attendees. Acting as a comprehensive hub, it offers real-time updates and personalized planning tools tailored to various large-scale events, including music festivals, conventions, and carnivals.
 
