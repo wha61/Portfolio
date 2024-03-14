@@ -15,6 +15,11 @@ Experience consists of my recent education, work experience, volunteer experienc
 ## Work Experience
 
 > **Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec** (Jan. 2024 - Present) <br>
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="cems.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
 > •  Developed the customized Civil Explosive Product Monitoring System for Sinopec(China Petrochemical Corp). This platform is designed using DDD pattern and integrates functionalities such as product registration, tracking, security management, license approval, and inventory control.<br>
 > • Utilized the React framework for frontend development, and the ABP framework based on ASP.NET(C#) for backend development. Designed and maintained the MS SQL Server database.  <br>
 > •  Integrated RESTful APIs using ABP framework and used Gitlab for version control. <br>
