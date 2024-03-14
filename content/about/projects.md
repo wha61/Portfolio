@@ -65,6 +65,19 @@ Stack: PostgreSQL, Express, NodeJS, Angular, Docker, Docker Compose
 
 <a target="_blank" href="https://github.com/wha61/Recipe-PEANstack-WebApp">GitHub</a>
 
+## Weather Forecast
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="weather.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+Retrieve weather information based on location or city name
+
+Stack: Vue, OpenWeatherMap API.
+
+<a target="_blank" href="https://github.com/wha61/weatherForecast">GitHub</a>&emsp;
+<a target="_blank" href="http://47.120.67.126:8080/">Demo</a>
+
 ## Flame 
 ![[flame.png]]
 
