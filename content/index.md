@@ -18,6 +18,7 @@ Keep learning, keep updating!
 - [Experience](about/experience.md)
 - [Team&Personal Projects](about/projects.md) 
 - [Blogs](blogs/) 
+- [Fun](Fun) 
 
 
 
