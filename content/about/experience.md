@@ -34,6 +34,3 @@ Experience consists of my recent education, work experience, volunteer experienc
 > **Tech Support Volunteer** (Aug 2022) <br>
 > • Acted as a key team member in introducing the music festival's schedule and activities.  <br>
 > • Assisted audiences in accessing festival information and sponsor details through QR code scanning. <br>
-## Courses
-
-To be filled.
