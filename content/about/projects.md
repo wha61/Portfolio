@@ -19,9 +19,10 @@ For detailed information you can check the Github link below each project.
   <iframe src="cems.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
 </div>
 
-A Domain-Driven Design (DDD) based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp). The platform integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control. It serves as a robust digital platform designed to enhance operational efficiencies and compliance oversight.
+A Domain-Driven Design (DDD) architectual patten based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp). The platform integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control. It serves as a robust digital platform designed to enhance operational efficiencies and compliance oversight.
 
 Stack: React, ASP.NET (C#), ABP Framework, MS SQL Server, RESTful APIs, GitLab Actions.
+
 ## Festival Planner
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -30,7 +31,7 @@ Stack: React, ASP.NET (C#), ABP Framework, MS SQL Server, RESTful APIs, GitLab A
 
 A MERN stack web application designed to enhance the festival-going experience for both organizers and attendees. Acting as a comprehensive hub, it offers real-time updates and personalized planning tools tailored to various large-scale events, including music festivals, conventions, and carnivals.
 
-Stack: React, NodeJS, Express, MongoDB, Docker, GCP, Web Socket, GitLab Actions    
+** Stack: React, NodeJS, Express, MongoDB, Docker, GCP, Web Socket, GitLab Actions    
 
 <a target="_blank" href="https://github.com/wha61/FestivalPlanner-MERNstack">GitHub</a>&emsp;
 <a target="_blank" href="http://47.120.67.126:3000/">Demo</a>
