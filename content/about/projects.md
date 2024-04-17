@@ -9,9 +9,9 @@ The basic intro and technical stack are provided.
 
 For detailed information you can check the Github link below each project.
 
-
-
 ---
+
+# Web Development
 
 ## Civil Explosive Product Monitoring System
 
@@ -21,7 +21,7 @@ For detailed information you can check the Github link below each project.
 
 A Domain-Driven Design (DDD) architectual patten based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp). The platform integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control. It serves as a robust digital platform designed to enhance operational efficiencies and compliance oversight.
 
-Stack: React, ASP.NET (C#), ABP Framework, MS SQL Server, RESTful APIs, GitLab Actions.
+Stack: React, ASP.NET (C#), ABP Framework, MS SQL Server, RESTful APIs, Docker, Kubernetes, GitLab Actions.
 
 ## Festival Planner
 
@@ -31,7 +31,7 @@ Stack: React, ASP.NET (C#), ABP Framework, MS SQL Server, RESTful APIs, GitLab A
 
 A MERN stack web application designed to enhance the festival-going experience for both organizers and attendees. Acting as a comprehensive hub, it offers real-time updates and personalized planning tools tailored to various large-scale events, including music festivals, conventions, and carnivals.
 
-** Stack: React, NodeJS, Express, MongoDB, Docker, GCP, Web Socket, GitLab Actions    
+Stack: React, NodeJS, Express, MongoDB, Docker, GCP, Web Socket, GitLab Actions    
 
 <a target="_blank" href="https://github.com/wha61/FestivalPlanner-MERNstack">GitHub</a>&emsp;
 <a target="_blank" href="http://47.120.67.126:3000/">Demo</a>
@@ -56,7 +56,7 @@ Stack: Angular, Bootstrap, ChartJS.
 <a target="_blank" href="https://github.com/wha61/Covid-19-DataViewerCanada">GitHub</a>&emsp;
 <a target="_blank" href="http://47.120.67.126:81/">Demo</a>
 
-## Chatroom 1.0
+## Chatroom beta
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe src="chatroom.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -67,15 +67,6 @@ A dynamic and interactive web application designed to facilitate real-time commu
 Stack: React, NodeJs, Express, Socket.io, Encryption.
 
 <a target="_blank" href="https://github.com/wha61/Chatroom">GitHub</a>
-
-## Recipe
-![DEMO](RecipeDemo.gif)
-
-A full stack recipe app using the PEAN stack (PostgreSQL, Express framework, NodeJS, and Angular as the frontend framework), encapsulated in Docker containers for both frontend and backend, and deployed on Docker Hub.
-
-Stack: PostgreSQL, Express, NodeJS, Angular, Docker, Docker Compose
-
-<a target="_blank" href="https://github.com/wha61/Recipe-PEANstack-WebApp">GitHub</a>
 
 ## Weather Forecast
 
@@ -89,6 +80,17 @@ Stack: Vue, OpenWeatherMap API.
 
 <a target="_blank" href="https://github.com/wha61/weatherForecast">GitHub</a>&emsp;
 <a target="_blank" href="http://47.120.67.126:8080/">Demo</a>
+
+## Recipe
+![DEMO](RecipeDemo.gif)
+
+A full stack recipe app using the PEAN stack (PostgreSQL, Express framework, NodeJS, and Angular as the frontend framework), encapsulated in Docker containers for both frontend and backend, and deployed on Docker Hub.
+
+Stack: PostgreSQL, Express, NodeJS, Angular, Docker, Docker Compose
+
+<a target="_blank" href="https://github.com/wha61/Recipe-PEANstack-WebApp">GitHub</a>
+
+# Mobile Development
 
 ## Flame 
 ![[flame.png]]
@@ -114,6 +116,8 @@ Stack: Kotlin, Android SDK, MVVM Design pattern.
 
 <a target="_blank" href="https://github.com/wha61/MyRuns-Fitness-AndroidAPP">GitHub</a>&emsp;
 <a target="_blank" href="https://github.com/wha61/MyRuns-Fitness-AndroidAPP/blob/main/app-debug.apk">Apk Download</a>&emsp;
+
+# OS Development
 
 ## C-Shell
 ![DEMO](cshell.png)
