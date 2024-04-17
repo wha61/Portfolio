@@ -1,10 +1,13 @@
 ---
 title: Home 🏬
 ---
+[Email](mailto:wha61@sfu.ca)  |  [Github](https://github.com/wha61) | [Linkedin](https://www.linkedin.com/in/wenxiang-he/)
 
 <img src="me.png" alt="Bruce's Photo" width="100%" height="auto">
 
-Hello! I’m Bruce. 4th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) student @ Simon Fraser University. I’m interested in Full Stack Software Development, Mobile App Development, Machine Mearning, and Computer Vision.
+Hello! I’m Bruce. 4th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) student @ Simon Fraser University. 
+
+My field of interest and specialization is Full Stack Software Development, Mobile App Development, Machine Mearning, and Computer Vision.
 
 I'm currently working as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec, and I am also learning and trying to get the [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
@@ -18,6 +21,7 @@ Stay tuned for updates and thanks for stopping by!
 
 - [Experience](about/experience.md) : My educational background, co-op, and volunteering experiences;
 - [Projects](about/projects.md) : Showcases of personal and team projects I've developed;
+- [Courses](about/) : Taken related to Computing Science;
 - [Blogs](blogs/) : Thoughts and reflections from my learning journey.
 
 

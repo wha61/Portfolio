@@ -3,14 +3,25 @@ title: "Projects"
 date: 2023-02-18T11:08:02-12:00
 draft: false
 ---
-Here are the technical projects that I build from school and personal.
+Here are the technical projects that I build.
 
 The basic intro and technical stack are provided.
 
 For detailed information you can check the Github link below each project.
 
+
+
 ---
 
+## Civil Explosive Product Monitoring System
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="cems.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+A Domain-Driven Design (DDD) based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp). The platform integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control. It serves as a robust digital platform designed to enhance operational efficiencies and compliance oversight.
+
+Stack: React, ASP.NET (C#), ABP Framework, MS SQL Server, RESTful APIs, GitLab Actions.
 ## Festival Planner
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -113,7 +124,10 @@ Stack: C, Linux/Unix
 <a target="_blank" href="https://github.com/wha61/CShell">GitHub</a>
 
 ## Lets-Talk
+
+From port 3000 to port 3001:
 ![DEMO](letstalk1.png)
+From port 3001 to port 3000:
 ![DEMO](letstalk2.png)
 
 A chatroom with many features built in C implemented with multithreading concepts and UDP. This chatroom enables a user at one terminal to communicate with a user at another terminal.

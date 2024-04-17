@@ -26,7 +26,7 @@ Experience consists of my recent education, work experience, volunteer experienc
 > •  Engaged in meticulous analysis and customization of client requirements based on Agile Methodologies, leading to the successful initiation and trail operation of the system. <br>
 
 ## Volunteer Experience
-> **IT Squad member** (Jan 2023 - Aug 2023) <br>
+>  [**IT Squad member**](https://www.fraseric.ca/campus-life/volunteer-opportunities/it-squad/) (Jan 2023 - Aug 2023) <br>
 > • Assisting students and educators in resolving technical issues.<br>
 > • Documenting encountered technical issues and reporting them to the supervisor.<br>
 > • Providing guidance to new FIC students on activating personal accounts and computing IDs. <br>
