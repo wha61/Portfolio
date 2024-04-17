@@ -23,6 +23,7 @@ Stay tuned for updates and thanks for stopping by!
 - [Projects](about/projects.md) : Showcases of personal and team projects I've developed;
 - [Courses](about/) : Taken related to Computing Science;
 - [Blogs](blogs/) : Thoughts and reflections from my learning journey.
+- [Videos](Videos/) : That I find meaningful and useful.
 
 
 
