@@ -9,7 +9,7 @@ Hello! I’m Bruce. 4th year [Computing Science](https://www.sfu.ca/computing/cu
 
 My field of interest and specialization is Full Stack Software Development, Mobile App Development, Machine Mearning, and Computer Vision.
 
-I'm currently working as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec, and I am also learning and trying to get the [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
+I'm currently working as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec, and I am also learning and preparing for [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
 This website is my digital space where I'll share my experiences, projects, and thoughts through blogs. It's still under construction, but I plan to keep it updated regularly.
 
