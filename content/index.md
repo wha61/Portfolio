@@ -10,7 +10,7 @@ title: Home 🏬
 
 My field of interest and specialization is Full Stack Software Development, Mobile App Development, Machine Mearning, and Computer Vision.
 
-I'm currently working as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec, and I am also learning and preparing for [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
+I just finished my 4 months Coop as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec, currently I am working on a health care delivery support system [iCradle Health Care System](http://localhost:8080/about/projects#icradle-health-care-system)with Professor Brain Fraser, and I am also learning for [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
 In my free time, I enjoy playing badminton, traveling, and assembling Gundam models.
 
