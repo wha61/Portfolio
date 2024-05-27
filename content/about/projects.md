@@ -43,7 +43,7 @@ A health care delivery support system designed to assist pregnant women in the B
 - **Testing:** Cypress
 - **Code Repository:** SFU's GitHub Enterprise server (mirrored on GitHub.com)
 
-<a target="_blank" href="https://github.sfu.ca/cradle-project">GitHub</a>&emsp;
+<a target="_blank" href="https://github.com/drbfraser/CRADLE-Platform">GitHub</a>&emsp;
 <a target="_blank" href="https://cradleplatform.com/">Demo</a>
 
 ## Festival Planner
