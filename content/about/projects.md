@@ -21,7 +21,11 @@ For detailed information you can check the Github link below each project.
 
 A Domain-Driven Design (DDD) architectual patten based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp). The platform integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control. It serves as a robust digital platform designed to enhance operational efficiencies and compliance oversight.
 
-Stack: React, ASP.NET (C#), ABP Framework, MS SQL Server, RESTful APIs, Docker, Kubernetes, GitLab Actions.
+**Tech Stack:**
+
+- **Back-end:** ASP.NET (C#), ABP Framework, MS SQL Server
+- **Web Front-end:** React, TypeScript, AntDesignPro
+- **Code Repository:** Docker, Kubernetes, GitLab Actions.
 
 ## iCradle Health Care System
 
@@ -36,8 +40,8 @@ A health care delivery support system designed to assist pregnant women in the B
 - **Back-end:** Python, Flask
 - **Web Front-end:** React, TypeScript
 - **Mobile Apps:** Kotlin
+- **Testing:** Cypress
 - **Code Repository:** SFU's GitHub Enterprise server (mirrored on GitHub.com)
-
 
 <a target="_blank" href="https://github.sfu.ca/cradle-project">GitHub</a>&emsp;
 <a target="_blank" href="https://cradleplatform.com/">Demo</a>

@@ -14,7 +14,7 @@ Experience consists of my recent education, work experience, volunteer experienc
 
 ## Work Experience
 
-> **Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec** (Jan. 2024 - Present) <br>
+> **Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec** (Jan. 2024 - Apr. 2024) <br>
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe src="cems.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -24,6 +24,18 @@ Experience consists of my recent education, work experience, volunteer experienc
 > • Utilized the React framework for frontend development, and the ABP framework based on ASP.NET(C#) for backend development. Designed and maintained the MS SQL Server database.  <br>
 > •  Integrated RESTful APIs using ABP framework and used Gitlab for version control. <br>
 > •  Engaged in meticulous analysis and customization of client requirements based on Agile Methodologies, leading to the successful initiation and trail operation of the system. <br>
+
+> **Full Stack Software Developer with Dr Brain Fraser** (May. 2024 - Present) <br>
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="cradle.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+> • Built responsive web interfaces with React and TypeScript for health care management.<br>
+> • Developed and maintained the backend using Flask, creating RESTful APIs for seamless integration.  <br>
+> • Enhanced Android apps with Kotlin for field health monitoring and patient referrals. <br>
+> • Conducted end-to-end testing using Cypress and quality check using Detekt to ensure application reliability. <br>
+> • Implemented Git workflow and CI/CD pipelines to streamline continous development and deployment. <br>
 
 ## Volunteer Experience
 >  [**IT Squad member**](https://www.fraseric.ca/campus-life/volunteer-opportunities/it-squad/) (Jan 2023 - Aug 2023) <br>
