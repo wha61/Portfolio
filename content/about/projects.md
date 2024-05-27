@@ -23,6 +23,25 @@ A Domain-Driven Design (DDD) architectual patten based system engineered to stre
 
 Stack: React, ASP.NET (C#), ABP Framework, MS SQL Server, RESTful APIs, Docker, Kubernetes, GitLab Actions.
 
+## iCradle Health Care System
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="cradle.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+A health care delivery support system designed to assist pregnant women in the Bidi Bidi refugee settlement in Uganda and manage medical patient referrals in Sierra Leone. The platform integrates functionalities for community health monitoring and patient record management. Field workers use an Android app to monitor health and refer patients to health centers. Health care workers in the centers use a web app to access patient records, record treatments, and recommend follow-ups. Developed in collaboration with doctors at Kings College London, the system aims to be actively used to provide direct health benefits.
+
+**Tech Stack:**
+
+- **Back-end:** Python, Flask
+- **Web Front-end:** React, TypeScript
+- **Mobile Apps:** Kotlin
+- **Code Repository:** SFU's GitHub Enterprise server (mirrored on GitHub.com)
+
+
+<a target="_blank" href="https://github.sfu.ca/cradle-project">GitHub</a>&emsp;
+<a target="_blank" href="https://cradleplatform.com/">Demo</a>
+
 ## Festival Planner
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
