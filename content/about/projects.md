@@ -5,6 +5,10 @@ draft: false
 ---
 Here are the technical projects that I build.
 
+[Web Development](https://wha61.github.io/Portfolio/about/projects#web-development) |
+[Mobile Development](https://wha61.github.io/Portfolio/about/projects#mobile-development) |
+[OS Development](https://wha61.github.io/Portfolio/about/projects#os-development)
+
 The basic intro and technical stack are provided.
 
 For detailed information you can check the Github link below each project.
@@ -24,7 +28,7 @@ A Domain-Driven Design (DDD) architectual patten based system engineered to stre
 **Tech Stack:**
 
 - **Back-end:** ASP.NET (C#), ABP Framework, MS SQL Server
-- **Web Front-end:** React, TypeScript, AntDesignPro
+- **Web Front-end:** React, AntDesignPro, UMI
 - **Code Repository:** Docker, Kubernetes, GitLab Actions.
 
 ## iCradle Health Care System
@@ -40,8 +44,9 @@ A health care delivery support system designed to assist pregnant women in the B
 - **Back-end:** Python, Flask
 - **Web Front-end:** React, TypeScript
 - **Mobile Apps:** Kotlin
-- **Testing:** Cypress
-- **Code Repository:** SFU's GitHub Enterprise server (mirrored on GitHub.com)
+- **Testing:** Cypress, Detekt
+- **DevOps:** Git Workflow, CI/CD, SFU's GitHub Enterprise server
+- **Agile Development:** Scrum, Kanban
 
 <a target="_blank" href="https://github.com/drbfraser/CRADLE-Platform">GitHub</a>&emsp;
 <a target="_blank" href="https://cradleplatform.com/">Demo</a>
@@ -79,7 +84,7 @@ Stack: Angular, Bootstrap, ChartJS.
 <a target="_blank" href="https://github.com/wha61/Covid-19-DataViewerCanada">GitHub</a>&emsp;
 <a target="_blank" href="http://47.120.67.126:81/">Demo</a>
 
-## Chatroom beta
+## Chatroom Beta
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe src="chatroom.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
