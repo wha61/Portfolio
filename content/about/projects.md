@@ -37,6 +37,8 @@ A Domain-Driven Design (DDD) architectual patten based system engineered to stre
   <iframe src="cradle.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
 </div>
 
+<img src="cradle_mobile.png" class="d-block w-100" alt="Festivie Main">
+
 A health care delivery support system designed to assist pregnant women in the Bidi Bidi refugee settlement in Uganda and manage medical patient referrals in Sierra Leone. The platform integrates functionalities for community health monitoring and patient record management. Field workers use an Android app to monitor health and refer patients to health centers. Health care workers in the centers use a web app to access patient records, record treatments, and recommend follow-ups. Developed in collaboration with doctors at Kings College London, the system aims to be actively used to provide direct health benefits.
 
 **Tech Stack:**
