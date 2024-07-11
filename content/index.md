@@ -1,0 +1,28 @@
+---
+title: Home 🏬
+---
+
+[Email](mailto:wha61@sfu.ca)  |  [Github](https://github.com/wha61) | [Linkedin](https://www.linkedin.com/in/wenxiang-he/)
+
+<img src="me.png" alt="Bruce's Photo" width="100%" height="auto">
+
+## Hello! I’m Bruce. 4th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) student @ Simon Fraser University. 
+
+My field of interest and specialization is Full Stack Software Development, Mobile App Development, Machine Mearning, and Computer Vision.
+
+I just finished my 4 months Coop as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec. Currently I am working on a health care delivery support system [iCradle Health Care System](https://wha61.github.io/Portfolio/about/projects#icradle-health-care-system) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html), and I am also learning for [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
+
+In my free time, I enjoy playing badminton, traveling, enjoying delicious food, and assembling Gundam models.
+
+This is my digital space where I share my experiences, projects, thoughts, and so on. It's still under construction, but I plan to keep it updated regularly. Stay tuned for updates and thanks for stopping by!
+
+💪😃🎾 # Content Catalogs Below # 👇
+
+- [Experience](about/experience.md) : My educational background, co-op, and volunteering experiences;
+- [Projects](about/projects.md) : Showcases of personal and team projects I've developed;
+- [Courses](courses/) : Taken related to Computing Science;
+- [Blogs](blogs/) : Thoughts and reflections from my learning journey.
+- [Videos](Videos/) : That I find meaningful and useful.
+
+
+
