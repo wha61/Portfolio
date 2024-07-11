@@ -23,7 +23,7 @@ For detailed information you can check the Github link below each project.
   <iframe src="cems.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
 </div>
 
-A Domain-Driven Design (DDD) architectual patten based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp). The platform integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control. It serves as a robust digital platform designed to enhance operational efficiencies and compliance oversight.
+A Domain-Driven Design (DDD) architectual patten based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp). The platform integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control. During my time at work, I was responsible for the design and development of the daily status page. Additionally, I communicated in reagulary with the client each week, successfully completing the trial run of the system.
 
 **Tech Stack:**
 
