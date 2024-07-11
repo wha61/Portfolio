@@ -8,11 +8,11 @@ title: Home 🏬
 
 ## Hello! I’m Bruce. 4th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) student @ Simon Fraser University. 
 
-My field of interest and specialization is Full Stack Software Development, Mobile App Development, Machine Mearning, and Computer Vision.
+I specialize in Full Stack Software Development, encompassing frontend, backend, and database management, as well as mobile app development and software testing. Additionally, I have a strong interest and expertise in Machine Learning, Artificial Intelligence, Computer Vision, and Robotics Systems.
 
-I just finished my 4 months Coop as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec. Currently I am working on a health care delivery support system [iCradle Health Care System](https://wha61.github.io/Portfolio/about/projects#icradle-health-care-system) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html), and I am also learning for [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
+I used to work as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec. Currently I am developing a health care delivery support system for pregnant women [iCradle Health Care System](https://wha61.github.io/Portfolio/about/projects#icradle-health-care-system) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html), and I am also learning for [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
-In my free time, I enjoy playing badminton, traveling, enjoying delicious food, and assembling Gundam models.
+In my free time, I enjoy playing badminton, traveling, and enjoying delicious food.
 
 This is my digital space where I share my experiences, projects, thoughts, and so on. It's still under construction, but I plan to keep it updated regularly. Stay tuned for updates and thanks for stopping by!
 
