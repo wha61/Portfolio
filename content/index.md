@@ -18,13 +18,15 @@ In my free time, I enjoy playing badminton, traveling, and enjoying delicious fo
 
 This is my digital space where I share my experiences, projects, thoughts, and so on. It's still under construction, but I plan to keep it updated regularly. Stay tuned for updates and thanks for stopping by!
 
-💪😃🎾 # Content Catalogs Below # 👇
+💪😃🎾 
 
-- [Experience](about/experience.md) : My educational background, co-op, and volunteering experiences;
-- [Projects](about/projects.md) : Showcases of personal and team projects I've developed;
-- [Courses](courses/) : Taken related to Computing Science;
-- [Blogs](blogs/) : Thoughts and reflections from my learning journey.
-- [Videos](Videos/) : That I find meaningful and useful.
+### Content Catalogs Below 👇
+
+- #### [Experience](about/experience.md) : My educational background, co-op, and volunteering experiences;
+- #### [Projects](about/projects.md) : Showcases of personal and team projects I've developed;
+- #### [Courses](courses/) : Taken related to Computing Science;
+- #### [Blogs](blogs/) : Thoughts and reflections from my learning journey.
+- #### [Videos](Videos/) : That I find meaningful and useful.
 
 
 
