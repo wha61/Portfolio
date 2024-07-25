@@ -60,7 +60,6 @@ Experience consists of my recent education, work experience, volunteer experienc
 
 > • Used Kanban in Github to pick up and solve issues. <br>
 
-
 **Tech Stack:**
 
 - **Back-end:** Python, Flask.
@@ -69,6 +68,34 @@ Experience consists of my recent education, work experience, volunteer experienc
 - **Testing:** Cypress, Detekt.
 - **DevOps:** Git Workflow, CI/CD, SFU's GitHub Enterprise server.
 - **Agile Development:** Scrum, Kanban.
+
+> ### Software Test Engineer in [Prestrack - DSTI](https://www.dsti.gov.sl/prestrack/)
+(June 2024 - Present) <br>
+
+* Sign NDA, no system picture to show
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="https://www.dsti.gov.sl/prestrack/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
+
+> • Performed system scalability and latency testing using Selenium, Locust, Postman, and automated scripts, identifying performance issues under various loads. <br>
+
+> • Developed scripts to automate the execution of unit tests, integration tests, and canary tests, ensuring continuous quality and early detection of issues across various testing stages. <br>
+
+> • Pinpointed and resolved a pagination issue between frontend and backend that significantly reduced request times. <br>
+
+> • Addressed a critical issue where missing user authentication tests led to potential unauthorized access vulnerabilities. <br>
+
+> • Utilized ZAP for fuzz testing and Wireshark for network sniffing. <br>
+
+**Tech Stack:**
+
+- **Back-end:** Python, Flask.
+- **Web Front-end:** React.
+- **Mobile Apps:** Kotlin.
+- **Testing:** Cypress, Detekt, Selenium, Wireshark, ZAP, Locust.
+
 
 ## Volunteer Experience
 >  [**IT Squad member at FIC**](https://www.fraseric.ca/campus-life/volunteer-opportunities/it-squad/) (Jan 2023 - Aug 2023) <br>

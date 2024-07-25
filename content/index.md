@@ -10,7 +10,9 @@ title: Home 🏬
 
 I specialize in Full Stack Software Development, encompassing frontend, backend, and database management, as well as mobile app development and software testing. Additionally, I have a strong interest and expertise in Machine Learning, Artificial Intelligence, Computer Vision, and Robotics Systems.
 
-I used to work as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec. Currently I am developing a health care delivery support system for pregnant women [iCradle Health Care System](https://wha61.github.io/Portfolio/about/projects#icradle-health-care-system) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html), and I am also learning for [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
+I used to work as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec. Currently I am developing a health care delivery support system for pregnant women [iCradle Health Care System](https://wha61.github.io/Portfolio/about/projects#icradle-health-care-system) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html), and also I am as a member of the [Prestrack-DSTI](https://www.dsti.gov.sl/prestrack/) testing team for a new software release. 
+
+I am also learning for [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
 In my free time, I enjoy playing badminton, traveling, and enjoying delicious food.
 
