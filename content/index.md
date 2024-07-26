@@ -8,6 +8,14 @@ title: Home 🏬
 
 ## Hello! I’m Bruce. 4th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) student @ Simon Fraser University. 
 
+### Content Catalogs Here 👇
+
+-  **[Experience](about/experience.md) : My educational background, co-op, and volunteering experiences;**
+-  **[Projects](about/projects.md) : Showcases of personal and team projects I've developed;**
+-  **[Courses](courses/) : Taken related to Computing Science;**
+-  **[Blogs](blogs/) : Thoughts and reflections from my learning journey.**
+-  **[Videos](Videos/) : That I find meaningful and useful.**
+
 I specialize in Full Stack Software Development, encompassing frontend, backend, and database management, as well as mobile app development and software testing. Additionally, I have a strong interest and expertise in Machine Learning, Artificial Intelligence, Computer Vision, and Robotics Systems.
 
 I used to work as a Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec. Currently I am developing a health care delivery support system for pregnant women [iCradle Health Care System](https://wha61.github.io/Portfolio/about/projects#icradle-health-care-system) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html), and also I am as a member of the [Prestrack-DSTI](https://www.dsti.gov.sl/prestrack/) testing team for a new software release. 
@@ -20,13 +28,7 @@ This is my digital space where I share my experiences, projects, thoughts, and s
 
 💪😃🎾 
 
-### Content Catalogs Below 👇
 
-- #### [Experience](about/experience.md) : My educational background, co-op, and volunteering experiences;
-- #### [Projects](about/projects.md) : Showcases of personal and team projects I've developed;
-- #### [Courses](courses/) : Taken related to Computing Science;
-- #### [Blogs](blogs/) : Thoughts and reflections from my learning journey.
-- #### [Videos](Videos/) : That I find meaningful and useful.
 
 
 
