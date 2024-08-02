@@ -14,28 +14,32 @@ Experience consists of my recent education, work experience, volunteer experienc
 
 ## Work Experience
 
-> ### Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec 
-(Jan. 2024 - Apr. 2024) <br>
+> ### Software Test Engineer in [Prestrack - DSTI](https://www.dsti.gov.sl/prestrack/)
+(June 2024 - Present) <br>
 
+* Sign NDA, no system picture to show
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
-  <iframe src="cems.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+  <iframe src="https://www.dsti.gov.sl/prestrack/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
 </div>
 
-> •  Developed the customized Civil Explosive Product Monitoring System for Sinopec(China Petrochemical Corp). This platform is designed using DDD pattern and integrates functionalities such as product registration, tracking, security management, license approval, and inventory control.<br>
+Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
 
-> • Utilized the React framework for frontend development, and the ABP framework based on ASP.NET(C#) for backend development. Designed and maintained the MS SQL Server database.  <br>
+> • Performed system scalability and latency testing using Selenium, Locust, Postman, and automated scripts, identifying performance issues under various loads. <br>
 
-> •  Integrated RESTful APIs using ABP framework and used Gitlab for version control. <br>
+> • Developed scripts to automate the execution of unit tests, integration tests, and canary tests, ensuring continuous quality and early detection of issues across various testing stages. <br>
 
-> •  Engaged in meticulous analysis and customization of client requirements based on Agile Methodologies, leading to the successful initiation and trail operation of the system. <br>
+> • Pinpointed and resolved a pagination issue between frontend and backend that significantly reduced request times. <br>
+
+> • Addressed a critical issue where missing user authentication tests led to potential unauthorized access vulnerabilities. <br>
+
+> • Utilized ZAP for fuzz testing and Wireshark for network sniffing. <br>
 
 **Tech Stack:**
 
-- **Back-end:** ASP.NET (C#), ABP Framework, MS SQL Server
-- **Web Front-end:** React, AntDesignPro, UMI
-- **Code Repository:** GitLab Actions, Docker, Kubernetes.
-
-
+- **Back-end:** Python, Flask.
+- **Web Front-end:** React.
+- **Mobile Apps:** Kotlin.
+- **Testing:** Cypress, Detekt, Selenium, Wireshark, ZAP, Locust.
 
 > ### Software Developer with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
 (May. 2024 - Present) <br>
@@ -69,33 +73,26 @@ Experience consists of my recent education, work experience, volunteer experienc
 - **DevOps:** Git Workflow, CI/CD, SFU's GitHub Enterprise server.
 - **Agile Development:** Scrum, Kanban.
 
-> ### Software Test Engineer in [Prestrack - DSTI](https://www.dsti.gov.sl/prestrack/)
-(June 2024 - Present) <br>
+> ### Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec 
+(Jan. 2024 - Apr. 2024) <br>
 
-* Sign NDA, no system picture to show
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
-  <iframe src="https://www.dsti.gov.sl/prestrack/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+  <iframe src="cems.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
 </div>
 
-Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
+> •  Developed the customized Civil Explosive Product Monitoring System for Sinopec(China Petrochemical Corp). This platform is designed using DDD pattern and integrates functionalities such as product registration, tracking, security management, license approval, and inventory control.<br>
 
-> • Performed system scalability and latency testing using Selenium, Locust, Postman, and automated scripts, identifying performance issues under various loads. <br>
+> • Utilized the React framework for frontend development, and the ABP framework based on ASP.NET(C#) for backend development. Designed and maintained the MS SQL Server database.  <br>
 
-> • Developed scripts to automate the execution of unit tests, integration tests, and canary tests, ensuring continuous quality and early detection of issues across various testing stages. <br>
+> •  Integrated RESTful APIs using ABP framework and used Gitlab for version control. <br>
 
-> • Pinpointed and resolved a pagination issue between frontend and backend that significantly reduced request times. <br>
-
-> • Addressed a critical issue where missing user authentication tests led to potential unauthorized access vulnerabilities. <br>
-
-> • Utilized ZAP for fuzz testing and Wireshark for network sniffing. <br>
+> •  Engaged in meticulous analysis and customization of client requirements based on Agile Methodologies, leading to the successful initiation and trail operation of the system. <br>
 
 **Tech Stack:**
 
-- **Back-end:** Python, Flask.
-- **Web Front-end:** React.
-- **Mobile Apps:** Kotlin.
-- **Testing:** Cypress, Detekt, Selenium, Wireshark, ZAP, Locust.
-
+- **Back-end:** ASP.NET (C#), ABP Framework, MS SQL Server
+- **Web Front-end:** React, AntDesignPro, UMI
+- **Code Repository:** GitLab Actions, Docker, Kubernetes.
 
 ## Volunteer Experience
 >  [**IT Squad member at FIC**](https://www.fraseric.ca/campus-life/volunteer-opportunities/it-squad/) (Jan 2023 - Aug 2023) <br>
