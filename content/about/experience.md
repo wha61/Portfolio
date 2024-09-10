@@ -6,22 +6,24 @@ draft: false
 
 Experience consists of my recent education, work experience, volunteer experiences, and taken courses.
 
-## Education
+# Education
 
 > **Simon Fraser University** (Sept 2020 - Apr 2025 Expected) <br>
 > Bachelor of Science, Computing Science  <br>
 > **CGPA: 3.5/4.33** <br>
 
-## Work Experience
+# Work Experience
 
-> ### Teaching Assistant at [Simon Fraser University](https://www.sfu.ca/) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
+> ## Teaching Assistant at [Simon Fraser University](https://www.sfu.ca/) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
 (Sep. 2024 - Present) <br>
 
 * Undergraduate teaching Assistant under guidance of [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+* [Course Homepage](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt120/home)
+
+<!-- <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe src="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt120/home" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
-</div>
+</div> -->
 
 Technologies: Python (Programming Language), Microsoft Visual Studio Code, Remote Desktop
 
@@ -46,7 +48,7 @@ Technologies: Python (Programming Language), Microsoft Visual Studio Code, Remot
 > • Ensure a solid foundation for students' future studies in computing science. <br>
 
 
-> ### Research Assistant at [SFU MARS (The Multi-Agent Robotic Systems) Lab](https://robotics.sfu.ca/mars.html)
+> ## Research Assistant at [SFU MARS (The Multi-Agent Robotic Systems) Lab](https://robotics.sfu.ca/mars.html)
 (May. 2024 - Sep. 2024) <br>
 
 * Undergraduate research assistant under guidance of Professor [Mo Chen](https://www.sfu.ca/computing/people/faculty/mochen.html) and PHD [Hanyang Hu](https://hu-hanyang.github.io/).
@@ -54,9 +56,9 @@ Technologies: Python (Programming Language), Microsoft Visual Studio Code, Remot
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe src="https://robotics.sfu.ca/mars.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
 </div>
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+<!-- <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe src="mars.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
-</div>
+</div> -->
 
 Technologies: Reinforcement Learning, ROS, Python, PyTorch, Embedded C, C firmware.
 
@@ -72,7 +74,7 @@ Technologies: Reinforcement Learning, ROS, Python, PyTorch, Embedded C, C firmwa
 
 
 
-> ### Software Test Engineer in [Prestrack - DSTI](https://www.dsti.gov.sl/prestrack/)
+> ## Software Test Engineer in [Prestrack - DSTI](https://www.dsti.gov.sl/prestrack/)
 (June. 2024 - Sep. 2024) <br>
 
 * Sign NDA, no system picture to show
@@ -99,7 +101,7 @@ Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
 - **Mobile Apps:** Kotlin.
 - **Testing:** Cypress, Detekt, Selenium, Wireshark, ZAP, Locust.
 
-> ### Software Developer with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
+> ## Software Developer with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
 (May. 2024 - Aug. 2024) <br>
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -131,7 +133,7 @@ Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
 - **DevOps:** Git Workflow, CI/CD, SFU's GitHub Enterprise server.
 - **Agile Development:** Scrum, Kanban.
 
-> ### Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec 
+> ## Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec 
 (Jan. 2024 - Apr. 2024) <br>
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -152,7 +154,7 @@ Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
 - **Web Front-end:** React, AntDesignPro, UMI
 - **Code Repository:** GitLab Actions, Docker, Kubernetes.
 
-## Volunteer Experience
+# Volunteer Experience
 >  [**IT Squad member at FIC**](https://www.fraseric.ca/campus-life/volunteer-opportunities/it-squad/) (Jan 2023 - Aug 2023) <br>
 > • Assisting students and educators in resolving technical issues.<br>
 > • Documenting encountered technical issues and reporting them to the supervisor.<br>
