@@ -10,12 +10,70 @@ Experience consists of my recent education, work experience, volunteer experienc
 
 > **Simon Fraser University** (Sept 2020 - Apr 2025 Expected) <br>
 > Bachelor of Science, Computing Science  <br>
-> **CGPA: 3.44/4.33** <br>
+> **CGPA: 3.5/4.33** <br>
 
 ## Work Experience
 
+> ### Teaching Assistant at [Simon Fraser University](https://www.sfu.ca/) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
+(Sep. 2024 - Present) <br>
+
+* Undergraduate teaching Assistant under guidance of [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt120/home" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+Technologies: Python (Programming Language), Microsoft Visual Studio Code, Remote Desktop
+
+> • Support students in understanding foundational concepts of computing science and Python programming. <br>
+
+> • Lead lab sessions and guide students through topics such as: <br>
+> &emsp; - Algorithms and computational thinking. <br>
+> &emsp; - Procedural programming in Python. <br>
+> &emsp; - Data types and control structures. <br>
+> &emsp; - Application areas within computing science. <br>
+
+> • Teach fundamental algorithms, including: <br>
+> &emsp; - Searching and sorting. <br>
+> &emsp; - Basic recursion. <br>
+
+> • Introduce introductory concepts in: <br>
+> &emsp; - Computability and complexity. <br>
+> &emsp; - Binary encoding. <br>
+
+> • Provide one-on-one support to help students grasp key programming and problem-solving techniques. <br>
+
+> • Ensure a solid foundation for students' future studies in computing science. <br>
+
+
+> ### Research Assistant at [SFU MARS (The Multi-Agent Robotic Systems) Lab](https://robotics.sfu.ca/mars.html)
+(May. 2024 - Sep. 2024) <br>
+
+* Undergraduate research assistant under guidance of Professor [Mo Chen](https://www.sfu.ca/computing/people/faculty/mochen.html) and PHD [Hanyang Hu](https://hu-hanyang.github.io/).
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="https://robotics.sfu.ca/mars.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="mars.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+Technologies: Reinforcement Learning, ROS, Python, PyTorch, Embedded C, C firmware.
+
+> • Focused on enhancing the robustness of reinforcement learning algorithms through Hamilton-Jacobi Reachability Analysis. <br>
+
+> • Implemented, integrated, and tested neural network controllers on the Crazyflie 2.1 drone platform to improve its stability under various disturbances. <br>
+
+> • Assembled and configured the Crazyflie 2.1 drone, integrating it with the CrazySwarm framework. <br>
+
+> • Conducted rigorous real-world flight tests to validate the effectiveness of these controllers. <br>
+
+> • Contributed to developing advanced control strategies for stable autonomous flight, demonstrating the practical applicability of robust reinforcement learning methods in real-world conditions. <br>
+
+
+
 > ### Software Test Engineer in [Prestrack - DSTI](https://www.dsti.gov.sl/prestrack/)
-(June 2024 - Present) <br>
+(June. 2024 - Sep. 2024) <br>
 
 * Sign NDA, no system picture to show
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -42,7 +100,7 @@ Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
 - **Testing:** Cypress, Detekt, Selenium, Wireshark, ZAP, Locust.
 
 > ### Software Developer with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
-(May. 2024 - Present) <br>
+(May. 2024 - Aug. 2024) <br>
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe src="cradle.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
