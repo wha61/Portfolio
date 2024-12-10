@@ -5,6 +5,7 @@ draft: false
 ---
 Here are the technical projects that I build.
 
+[ML Development](https://wha61.github.io/Portfolio/about/projects#ml-development) |
 [Web Development](https://wha61.github.io/Portfolio/about/projects#web-development) |
 [Mobile Development](https://wha61.github.io/Portfolio/about/projects#mobile-development) |
 [OS Development](https://wha61.github.io/Portfolio/about/projects#os-development)
@@ -14,6 +15,105 @@ The basic intro and technical stack are provided.
 For detailed information you can check the Github link below each project.
 
 ---
+
+# ML Development
+
+## Fantasia Ambience: Intelligent Ambient Audio Generation System  
+
+<!-- <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="fantasia.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div> -->
+
+A research project in collaboration with PhD student Sheng-Yang Chiu and supervised by **Professor Xingdong Yang** at SFU, **Fantasia Ambience** is an intelligent system that identifies ambient sounds and creates customized atmospheric audio based on user preferences. 
+
+Targeted for submission to the **ACM Conference on Designing Interactive Systems (DIS) 2025**, the project leverages advanced technologies for audio detection and generation.  
+
+> • Developed an application that intelligently classifies input sounds and generates customized artificial audio outputs based on user-defined preferences. <br>
+> 
+> • Integrated large-scale model libraries, including **UNet-based diffusion models**, for sound tagging and audio generation, designing and implementing a comprehensive architecture for advanced audio processing. <br>
+> 
+> • Managed the cloud deployment of the application using **AWS Lambda**, ensuring high-performance and scalability. <br>
+
+**Tech Stack:**  
+
+- **Machine Learning:** PyTorch, UNet-based diffusion models.  
+- **Audio Processing:** Sound detection and tagging, TTA (Test-Time Augmentation) generation.  
+- **Cloud Deployment:** AWS Lambda.  
+
+## Advanced Object Detection and Semantic Segmentation Using Deep Learning  
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="object_detection.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+A course project at Simon Fraser University focusing on advanced deep learning techniques for object detection and semantic segmentation. The project utilized state-of-the-art architectures and datasets to develop and evaluate high-performance machine learning models.  
+
+> • Implemented and fine-tuned **Faster R-CNN** and **Mask R-CNN** models, achieving an **AP50 improvement** from 38.8% to 69.8%. <br>
+> 
+> • Enhanced training stability with **FP16 precision**, optimized hyperparameters, and configured anchor sizes for precise object detection. <br>
+> 
+> • Designed **U-Net adaptations with skip connections**, achieving a **Mean IoU of 95.3%** for semantic segmentation. <br>
+> 
+> • Developed and evaluated deep learning pipelines using **PyTorch**, **Detectron2**, and **COCO datasets**. <br>
+
+**Tech Stack:**  
+
+- **Machine Learning Frameworks:** PyTorch, Detectron2.  
+- **Models:** Faster R-CNN, Mask R-CNN, U-Net.  
+- **Datasets:** COCO (Common Objects in Context).  
+- **Optimization Techniques:** FP16 precision, hyperparameter tuning, anchor configuration.  
+
+<a target="_blank" href="https://github.com/wha61/Detection-SemanticSegmentation-InstanceSegmentation">GitHub</a>&emsp;
+
+## Image Classification of CIFAR100 Dataset using PyTorch  
+
+<!-- <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="cifar100_classification.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div> -->
+
+A course project at Simon Fraser University aimed at achieving high classification accuracy on the **CIFAR100 dataset** through advanced deep learning techniques. The project was part of a competitive Kaggle competition, showcasing cutting-edge approaches in computer vision.  
+
+> • Designed and implemented a **Deep Convolutional Neural Network (CNN)** using PyTorch, achieving **78% classification accuracy** on the test set. <br>
+> 
+> • Improved model performance by applying **transfer learning** and **data augmentation**, leading to a **13th percentile placement** in the Kaggle competition. <br>
+> 
+> • Optimized the baseline architecture, reducing training time and enhancing prediction accuracy through **hyperparameter tuning** and **batch normalization**. <br>
+
+**Tech Stack:**  
+
+- **Machine Learning Frameworks:** PyTorch.  
+- **Dataset:** CIFAR100.  
+- **Techniques:** Transfer learning, data augmentation, batch normalization.  
+- **Optimization:** Hyperparameter tuning, architecture improvement.  
+
+<a target="_blank" href="https://github.com/wha61/Image-classification-and-PyTorch-Introduction">GitHub</a>&emsp;
+
+## 3D Reconstruction  
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="3d-reconstruction.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+A course project at Simon Fraser University focusing on implementing key techniques for 3D reconstruction, including sparse and dense reconstruction, pose estimation, and multi-view stereo. The project involved applying computer vision algorithms to reconstruct 3D structures from 2D images.  
+
+> • Implemented the **Eight Point Algorithm** to compute the fundamental matrix (F) and the **Essential Matrix (E)** for accurate epipolar geometry and pose estimation. <br>
+> 
+> • Developed a **Normalized Cross-Correlation (NCC)**-based approach for reliable feature matching and accurate epipolar correspondences. <br>
+> 
+> • Triangulated 3D points using **Singular Value Decomposition (SVD)** and ensured depth consistency with positive z-coordinates for all points. <br>
+> 
+> • Performed **Image Rectification** and dense window matching to generate a depth map. <br>
+> 
+> • Achieved low re-projection errors and optimized intrinsic/extrinsic parameters for accurate pose estimation. <br>
+
+**Tech Stack:**  
+
+- **Algorithms:** Eight Point Algorithm, Epipolar Geometry, Triangulation, Pose Estimation.  
+- **Techniques:** NCC matching, Image Rectification, Depth Map Generation.  
+- **Libraries/Tools:** Python, NumPy, Matplotlib.  
+
+<a target="_blank" href="https://github.com/wha61/3D-Reconstruction">GitHub</a>&emsp;
+
 
 # Web Development
 
