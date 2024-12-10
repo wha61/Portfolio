@@ -8,14 +8,14 @@ Experience consists of my recent education, work experience, volunteer experienc
 
 # Education
 
-> **Simon Fraser University** (Sept 2020 - Apr 2025 Expected) <br>
+> **Simon Fraser University** (Sep. 2020 - Dec. 2024) <br>
 > Bachelor of Science, Computing Science  <br>
-> **CGPA: 3.5/4.33** <br>
+> **UDCGPA: 3.6/4.33** <br>
 
 # Work Experience
 
 > ## Teaching Assistant at [Simon Fraser University](https://www.sfu.ca/) with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
-(Sep. 2024 - Present) <br>
+> (Sep. 2024 - Dec. 2024) <br>
 
 * Undergraduate teaching Assistant under guidance of [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
 
@@ -29,7 +29,7 @@ Technologies: Python (Programming Language), Microsoft Visual Studio Code, Remot
 
 > • Support students in understanding foundational concepts of computing science and Python programming. <br>
 
-> • Lead lab sessions and guide students through topics such as: <br>
+<!-- > • Lead lab sessions and guide students through topics such as: <br>
 > &emsp; - Algorithms and computational thinking. <br>
 > &emsp; - Procedural programming in Python. <br>
 > &emsp; - Data types and control structures. <br>
@@ -41,7 +41,7 @@ Technologies: Python (Programming Language), Microsoft Visual Studio Code, Remot
 
 > • Introduce introductory concepts in: <br>
 > &emsp; - Computability and complexity. <br>
-> &emsp; - Binary encoding. <br>
+> &emsp; - Binary encoding. <br> -->
 
 > • Provide one-on-one support to help students grasp key programming and problem-solving techniques. <br>
 
@@ -49,7 +49,7 @@ Technologies: Python (Programming Language), Microsoft Visual Studio Code, Remot
 
 
 > ## Research Assistant at [SFU MARS (The Multi-Agent Robotic Systems) Lab](https://robotics.sfu.ca/mars.html)
-(May. 2024 - Sep. 2024) <br>
+> (May. 2024 - Sep. 2024) <br>
 
 * Undergraduate research assistant under guidance of Professor [Mo Chen](https://www.sfu.ca/computing/people/faculty/mochen.html) and PHD [Hanyang Hu](https://hu-hanyang.github.io/).
 
@@ -75,7 +75,7 @@ Technologies: Reinforcement Learning, ROS, Python, PyTorch, Embedded C, C firmwa
 
 
 > ## Software Test Engineer in [Prestrack - DSTI](https://www.dsti.gov.sl/prestrack/)
-(June. 2024 - Sep. 2024) <br>
+> (June. 2024 - Sep. 2024) <br>
 
 * Sign NDA, no system picture to show
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -102,7 +102,7 @@ Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
 - **Testing:** Cypress, Detekt, Selenium, Wireshark, ZAP, Locust.
 
 > ## Software Developer with [Dr. Brian Fraser](https://www.sfu.ca/computing/people/faculty/brianfraser.html)
-(May. 2024 - Aug. 2024) <br>
+> (May. 2024 - Aug. 2024) <br>
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe src="cradle.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -133,8 +133,8 @@ Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
 - **DevOps:** Git Workflow, CI/CD, SFU's GitHub Enterprise server.
 - **Agile Development:** Scrum, Kanban.
 
-> ## Full Stack Software Developer at Shandong Leading Petro-Tech, Sinopec 
-(Jan. 2024 - Apr. 2024) <br>
+> ## Full Stack Software Developer at [Shandong Leading Petro-Tech, Sinopec](http://www.leadingpetro.com/) 
+> (Jan. 2024 - Apr. 2024) <br>
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
   <iframe src="cems.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -154,12 +154,39 @@ Technologies: Selenium, Postman, Locust, Wireshark, Cypress, ZAP
 - **Web Front-end:** React, AntDesignPro, UMI
 - **Code Repository:** GitLab Actions, Docker, Kubernetes.
 
+> ## Logging Interpretation and System Operations Intern at [China Sinopec Geophysical Co., Ltd](http://www.sinopecgroup.com/group/en/).  
+> (May 2021 - September 2021) <br>  
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="http://www.sinopecgroup.com/group/en/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+> • Contributed to the decoding and processing of logging data, editing lithology symbols and interpretation conclusion libraries. <br>
+
+> • Assisted in the installation and deployment of network array storage systems in the data center, managing Linux-based systems to maintain large-scale hard drive clusters. <br>
+
+> • Configured IP address distribution, learned switch models, and interface configurations to optimize the data center's network architecture. <br>
+
+> • Enhanced efficiency by supporting the operation and maintenance of the company’s geophysical logging system. <br>
+
+**Tech Stack:**  
+
+- **Data Processing:** Logging data decoding, lithology symbol editing.  
+- **Systems Administration:** Linux, network array storage systems.  
+- **Network Configuration:** IP address management, switch model configuration.  
+- **Tools:** Shell scripting, network interface tools.  
+
+
 # Volunteer Experience
->  [**IT Squad member at FIC**](https://www.fraseric.ca/campus-life/volunteer-opportunities/it-squad/) (Jan 2023 - Aug 2023) <br>
+>  ## [IT Squad member at FIC](https://www.fraseric.ca/campus-life/volunteer-opportunities/it-squad/) 
+> (Jan 2023 - Aug 2023) <br>
+>
 > • Assisting students and educators in resolving technical issues.<br>
 > • Documenting encountered technical issues and reporting them to the supervisor.<br>
 > • Providing guidance to new FIC students on activating personal accounts and computing IDs. <br>
 
-> **Tech Support Volunteer at Concert in the Park** (Aug 2022) <br>
+> ## Tech Support Volunteer at Concert in the Park
+> (Aug 2022) <br>
+>
 > • Acted as a key team member in introducing the music festival's schedule and activities.  <br>
 > • Assisted audiences in accessing festival information and sponsor details through QR code scanning. <br>
