@@ -29,9 +29,10 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-artifact@v4  # ✅ 使用 upload-artifact@v4
         with:
-          path: public
+          name: quartz-build
+          path: public  # 确保这里是 Quartz 生成的目录
  
   deploy:
     needs: build
