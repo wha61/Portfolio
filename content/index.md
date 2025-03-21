@@ -35,14 +35,7 @@ This is my digital space where I share my experiences, projects, thoughts, and s
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/globe.js?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0"></script>
 </div>
 
-<div>
-    <a href="https://hits.seeyoufarm.com" aria-label="Visitor count for portfolio">
-        <img 
-            src="https://hits.seeyoufarm.com/api/count/incr/badge.    svurl=https%3A%2F%2Fwha61.github.io%2FPortfolio%2count_bg=%2379C83D&    title_bg=%23555555&iconicon_color=%23E7E7E7&title=hits& edge_flat=false" 
-            alt="visitor count badge"
-        />
-    </a>
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwha61.github.io%2FPortfolio%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
