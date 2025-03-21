@@ -32,7 +32,7 @@ This is my digital space where I share my experiences, projects, thoughts, and s
 💪😃🧠🎾🍲
 
 <div>
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0"></script>
 </div>
 
 
