@@ -1,6 +1,9 @@
 ---
 title: Home 🏬
 ---
+<div>
+    <a href="http://www.clustrmaps.com/map/Wha61.github.io/Portfolio/" title="Visit tracker for Wha61.github.io/Portfolio/"><img src="//www.clustrmaps.com/map_v2.png?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0" /></a>
+</div>
 
 [Email](mailto:wha61@sfu.ca)  |  [Github](https://github.com/wha61) | [Linkedin](https://www.linkedin.com/in/wenxiang-he/)
 
