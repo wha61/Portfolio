@@ -1,9 +1,6 @@
 ---
 title: Home 🏬
 ---
-<div>
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0"></script>
-</div>
 
 [Email](mailto:wha61@sfu.ca)  |  [Github](https://github.com/wha61) | [Linkedin](https://www.linkedin.com/in/wenxiang-he/)
 
@@ -34,7 +31,9 @@ This is my digital space where I share my experiences, projects, thoughts, and s
 
 💪😃🧠🎾🍲
 
-
+<div>
+    <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+</div>
 
 
 
