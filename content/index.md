@@ -31,11 +31,18 @@ This is my digital space where I share my experiences, projects, thoughts, and s
 
 💪😃🧠🎾🍲
 
-<div>
-    <a href="https://clustrmaps.com/" target="_blank">
-        <img src="//clustrmaps.com/map_v2.png?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0" alt="Visitor Map" />
-    </a>
+<div id="clustrmaps-container">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0"></script>
 </div>
+
+<script>
+    setTimeout(() => {
+        const clustrMapLink = document.querySelector("#clustrmaps-container a");
+        if (clustrMapLink) {
+            clustrMapLink.href = "https://clustrmaps.com/"; // 强制跳转到 ClustrMaps 首页
+        }
+    }, 2000); // 等待 ClustrMaps 生成 <a> 标签
+</script>
 
 
 
