@@ -33,9 +33,10 @@ This is my digital space where I share my experiences, projects, thoughts, and s
 
 <div>
     <a href="https://clustrmaps.com/" target="_blank">
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0"></script>
+        <img src="//clustrmaps.com/map_v2.png?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0" alt="Visitor Map" />
     </a>
 </div>
+
 
 
 
