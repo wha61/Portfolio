@@ -2,7 +2,7 @@
 title: Home 🏬
 ---
 <div>
-    <a href="http://www.clustrmaps.com/map/Wha61.github.io/Portfolio/" title="Visit tracker for Wha61.github.io/Portfolio/"><img src="//www.clustrmaps.com/map_v2.png?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0" /></a>
+    <a href='https://clustrmaps.com/site/1c51g'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=300&t=tt&d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0&co=ffffff&ct=808080'/></a>
 </div>
 
 [Email](mailto:wha61@sfu.ca)  |  [Github](https://github.com/wha61) | [Linkedin](https://www.linkedin.com/in/wenxiang-he/)
