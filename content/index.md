@@ -35,7 +35,10 @@ This is my digital space where I share my experiences, projects, thoughts, and s
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/globe.js?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0"></script>
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwha61.github.io%2FPortfolio%2F&count_bg=%23848D7D&title_bg=%2343D7D7&icon=&icon_color=%23000000&title=Total+view&edge_flat=false)]
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwha61.github.io%2FPortfolio%2F&count_bg=%23848D7D&title_bg=%2343D7D7&icon=&icon_color=%23000000&title=Total+view&edge_flat=false)
+
+
 
 
 
