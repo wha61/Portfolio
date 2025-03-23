@@ -20,6 +20,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    // // 在这里插入你的打字效果组件：
+    // Component.TextEffectQuartz(),
   ],
   left: [
     Component.PageTitle(),

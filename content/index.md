@@ -4,6 +4,19 @@ title: Home 🏬
 
 [Email](mailto:wha61@sfu.ca)  |  [Github](https://github.com/wha61) | [Linkedin](https://www.linkedin.com/in/wenxiang-he/)
 
+<!-- <div style="position: relative; width: 100%; padding-bottom: 200px; color: var(--text-color); background: var(--bg-color);">
+  <iframe 
+    src="typing-effect.html" 
+    style="position: absolute; width: 100%; height: 100%; border: none; background: transparent;"
+    allowtransparency="true"
+  ></iframe>
+</div> -->
+
+<div style="position: relative; width: 100%; padding-bottom: 180px">
+  <iframe src="typing-effect.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+
+
 <img src="me.png" alt="Bruce's Photo" width="100%" height="auto">
 
 ## Hello! I’m Bruce. 5th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) Undergraduate @ Simon Fraser University. 
