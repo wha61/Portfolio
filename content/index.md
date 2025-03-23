@@ -12,29 +12,70 @@ title: Home 🏬
   ></iframe>
 </div> -->
 
-<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
-  <!-- 左侧文字效果容器 -->
-  <div style="flex: 1; min-width: 300px;">
-    <div style="aspect-ratio: 3 / 4; position: relative; width: 100%;">
+<style>
+  .responsive-section {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin: 20px 0;
+    flex-wrap: wrap;
+  }
+
+  .responsive-column {
+    flex: 1;
+    min-width: 300px;
+    width: 100%;
+  }
+
+  .aspect-box {
+    aspect-ratio: 3 / 4;
+    position: relative;
+    width: 100%;
+  }
+
+  .aspect-box iframe,
+  .aspect-box img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  @media (max-width: 768px) {
+    .responsive-section {
+      flex-direction: column;
+    }
+
+    .responsive-column {
+      width: 100%;
+    }
+  }
+</style>
+
+<div class="responsive-section">
+  <!-- 左侧打字动画 -->
+  <div class="responsive-column">
+    <div class="aspect-box">
       <iframe 
         src="typing-effect.html" 
-        style="position: absolute; width: 100%; height: 100%; border: none; background: transparent; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
-        allowtransparency="true"
-      ></iframe>
+        style="border: none; background: transparent;"
+        allowtransparency="true">
+      </iframe>
     </div>
   </div>
 
-  <!-- 右侧个人照片 -->
-  <div style="flex: 1; min-width: 300px;">
-    <div style="aspect-ratio: 3 / 4; position: relative; width: 100%;">
+  <!-- 右侧照片 -->
+  <div class="responsive-column">
+    <div class="aspect-box">
       <img 
         src="me.png" 
-        alt="Bruce's Photo" 
-        style="position: absolute; width: 100%; height: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
-      >
+        alt="Bruce's Photo">
     </div>
   </div>
 </div>
+
 
 
 
