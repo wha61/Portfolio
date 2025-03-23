@@ -2,7 +2,9 @@
 title: Home 🏬
 ---
 
-[Email](mailto:wha61@sfu.ca)  |  [Github](https://github.com/wha61) | [Linkedin](https://www.linkedin.com/in/wenxiang-he/)
+
+
+<!-- [Email](mailto:wha61@sfu.ca)  |  [Github](https://github.com/wha61) | [Linkedin](https://www.linkedin.com/in/wenxiang-he/) -->
 
 <!-- <div style="position: relative; width: 100%; padding-bottom: 200px; color: var(--text-color); background: var(--bg-color);">
   <iframe 
@@ -76,7 +78,66 @@ title: Home 🏬
 
 </div>
 
+<br>
 
+<style>
+  .link-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+  }
+
+  .link-button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #111;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.1s ease;
+  }
+
+  .link-button:hover {
+    transform: translateY(-2px);
+  }
+
+  .email { background-color: #f5d9a0; }
+  .cv { background-color: #e8b2ab; }
+  .github { background-color: #b1d1c9; }
+  .twitter { background-color: #a3d8f4; }
+  .scholar { background-color: #ceb4f4; }
+  .linkedin { background-color: #a7bffb; }
+
+  .link-icon {
+    font-size: 1.1rem;
+  }
+</style>
+
+<div class="link-grid">
+  <a href="mailto:your-email@example.com" class="link-button email">
+    <span class="link-icon">✉️</span> Email
+  </a>
+  <a href="https://linkedin.com/in/your-profile" class="link-button cv" target="_blank">
+    <span class="link-icon">📄</span> CV 
+  </a>
+  <a href="https://github.com/wha61" class="link-button github" target="_blank">
+    <span class="link-icon">🐱‍💻</span> Github
+  </a>
+  <!-- <a href="https://twitter.com/your-handle" class="link-button twitter" target="_blank">
+    <span class="link-icon">🐦</span> Twitter (X)
+  </a>
+  <a href="https://scholar.google.com/citations?user=yourID" class="link-button scholar" target="_blank">
+    <span class="link-icon">🎓</span> Scholar
+  </a> -->
+  <a href="https://www.linkedin.com/in/wenxiang-he/" class="link-button linkedin" target="_blank">
+    <span class="link-icon">💼</span> LinkedIn
+  </a>
+</div>
 
 
 
