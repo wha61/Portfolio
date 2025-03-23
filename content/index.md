@@ -13,68 +13,68 @@ title: Home 🏬
 </div> -->
 
 <style>
-  .responsive-section {
+  .fixed-50-layout {
     display: flex;
+    flex-direction: row;
     gap: 20px;
-    align-items: center;
     margin: 20px 0;
-    flex-wrap: wrap;
   }
 
-  .responsive-column {
-    flex: 1;
-    min-width: 300px;
-    width: 100%;
+  .fixed-50-column {
+    flex: 1 1 50%;
+    width: 50%;
   }
 
-  .aspect-box {
-    aspect-ratio: 3 / 4;
+  .aspect-container {
     position: relative;
     width: 100%;
+    aspect-ratio: 3 / 4;
   }
 
-  .aspect-box iframe,
-  .aspect-box img {
+  .aspect-container iframe,
+  .aspect-container img {
     position: absolute;
     width: 100%;
     height: 100%;
-    border-radius: 8px;
     object-fit: cover;
+    border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border: none;
   }
 
-  @media (max-width: 768px) {
-    .responsive-section {
+  /* 📱 仍可设置在极端小屏时自动堆叠（可选） */
+  @media (max-width: 600px) {
+    .fixed-50-layout {
       flex-direction: column;
     }
 
-    .responsive-column {
+    .fixed-50-column {
       width: 100%;
     }
   }
 </style>
 
-<div class="responsive-section">
+<div class="fixed-50-layout">
   <!-- 左侧打字动画 -->
-  <div class="responsive-column">
-    <div class="aspect-box">
+  <div class="fixed-50-column">
+    <div class="aspect-container">
       <iframe 
         src="typing-effect.html" 
-        style="border: none; background: transparent;"
-        allowtransparency="true">
-      </iframe>
+        allowtransparency="true"
+        style="background: transparent;"></iframe>
     </div>
   </div>
 
   <!-- 右侧照片 -->
-  <div class="responsive-column">
-    <div class="aspect-box">
+  <div class="fixed-50-column">
+    <div class="aspect-container">
       <img 
         src="me.png" 
         alt="Bruce's Photo">
     </div>
   </div>
 </div>
+
 
 
 
