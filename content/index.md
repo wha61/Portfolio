@@ -55,6 +55,14 @@ title: Home 🏬
 </style>
 
 <div class="fixed-50-layout">
+  <!-- 右侧照片 -->
+  <div class="fixed-50-column">
+    <div class="aspect-container">
+      <img 
+        src="me.png" 
+        alt="Bruce's Photo">
+    </div>
+  </div>
   <!-- 左侧打字动画 -->
   <div class="fixed-50-column">
     <div class="aspect-container">
@@ -65,14 +73,7 @@ title: Home 🏬
     </div>
   </div>
 
-  <!-- 右侧照片 -->
-  <div class="fixed-50-column">
-    <div class="aspect-container">
-      <img 
-        src="me.png" 
-        alt="Bruce's Photo">
-    </div>
-  </div>
+
 </div>
 
 
@@ -80,7 +81,7 @@ title: Home 🏬
 
 
 
-## Hello! I’m Bruce. 5th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) Undergraduate @ Simon Fraser University. 
+<!-- ## Hello! I’m Bruce. 5th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) Undergraduate @ Simon Fraser University.  -->
 
 ### Content Catalogs Here 👇
 
