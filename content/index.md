@@ -12,12 +12,32 @@ title: Home 🏬
   ></iframe>
 </div> -->
 
-<div style="position: relative; width: 100%; padding-bottom: 180px">
-  <iframe src="typing-effect.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
+  <!-- 左侧文字效果容器 -->
+  <div style="flex: 1; min-width: 300px;">
+    <div style="aspect-ratio: 3 / 4; position: relative; width: 100%;">
+      <iframe 
+        src="typing-effect.html" 
+        style="position: absolute; width: 100%; height: 100%; border: none; background: transparent; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+        allowtransparency="true"
+      ></iframe>
+    </div>
+  </div>
+
+  <!-- 右侧个人照片 -->
+  <div style="flex: 1; min-width: 300px;">
+    <div style="aspect-ratio: 3 / 4; position: relative; width: 100%;">
+      <img 
+        src="me.png" 
+        alt="Bruce's Photo" 
+        style="position: absolute; width: 100%; height: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+      >
+    </div>
+  </div>
 </div>
 
 
-<img src="me.png" alt="Bruce's Photo" width="100%" height="auto">
+
 
 ## Hello! I’m Bruce. 5th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) Undergraduate @ Simon Fraser University. 
 
