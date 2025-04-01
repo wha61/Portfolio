@@ -30,7 +30,7 @@ title: Home 🏬
   .aspect-container {
     position: relative;
     width: 100%;
-    aspect-ratio: 3 / 4;
+    aspect-ratio: 4 / 4.5;
   }
 
   .aspect-container iframe,
@@ -80,69 +80,79 @@ title: Home 🏬
 
 <br>
 
+<!-- ✅ Font Awesome 图标库（CDN） -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+  integrity="sha512-...略..."
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+/>
+
 <style>
   .link-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
-    margin: 20px 0;
+    gap: 12px;
+    margin: 1.5rem 0;
   }
 
   .link-button {
     display: flex;
     align-items: center;
-    gap: 8px;
-    padding: 10px 16px;
-    border-radius: 8px;
-    font-weight: bold;
-    font-family: sans-serif;
+    gap: 6px;
+    padding: 6px 16px;
+    border-radius: 6px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 600;
     text-decoration: none;
-    color: #111;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    transition: transform 0.1s ease;
+    color: #fff;
+    min-width: 120px;
+    height: 36px;
+    transition: all 0.2s ease-in-out;
   }
 
   .link-button:hover {
-    transform: translateY(-2px);
+    filter: brightness(1.15);
+    transform: translateY(-1px);
   }
 
-  .email { background-color: #f5d9a0; }
-  .cv { background-color: #e8b2ab; }
-  .github { background-color: #b1d1c9; }
-  .twitter { background-color: #a3d8f4; }
-  .scholar { background-color: #ceb4f4; }
-  .linkedin { background-color: #a7bffb; }
+  /* 🎨 按钮颜色匹配截图 */
+  .email { background-color: #6c4f27; }
+  .cv { background-color: #873f33; }
+  .github { background-color: #29584a; }
+  .linkedin { background-color: #2c3c80; }
 
-  .link-icon {
-    font-size: 1.1rem;
+  /* 图标变小 */
+  .link-button i {
+    font-size: 0.75rem;
   }
 </style>
 
+<!-- ✅ 按钮内容 -->
 <div class="link-grid">
   <a href="mailto:your-email@example.com" class="link-button email">
-    <span class="link-icon">✉️</span> Email
+    <i class="fas fa-envelope"></i> Email
   </a>
-  <a href="https://linkedin.com/in/your-profile" class="link-button cv" target="_blank">
-    <span class="link-icon">📄</span> CV 
+  <a href="https://your-cv-link.com" class="link-button cv" target="_blank">
+    <i class="fas fa-file-pdf"></i> CV
   </a>
   <a href="https://github.com/wha61" class="link-button github" target="_blank">
-    <span class="link-icon">🐱‍💻</span> Github
+    <i class="fab fa-github"></i> Github
   </a>
-  <!-- <a href="https://twitter.com/your-handle" class="link-button twitter" target="_blank">
-    <span class="link-icon">🐦</span> Twitter (X)
-  </a>
-  <a href="https://scholar.google.com/citations?user=yourID" class="link-button scholar" target="_blank">
-    <span class="link-icon">🎓</span> Scholar
-  </a> -->
-  <a href="https://www.linkedin.com/in/wenxiang-he/" class="link-button linkedin" target="_blank">
-    <span class="link-icon">💼</span> LinkedIn
+  <a href="https://linkedin.com/in/wenxiang-he/" class="link-button linkedin" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn
   </a>
 </div>
 
 
 
 
+
 <!-- ## Hello! I’m Bruce. 5th year [Computing Science](https://www.sfu.ca/computing/current-students/undergraduate-students/programs/computing-science-major.html) Undergraduate @ Simon Fraser University.  -->
+
+
 
 ### Content Catalogs Here 👇
 

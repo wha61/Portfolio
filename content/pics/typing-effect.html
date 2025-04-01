@@ -1,41 +1,49 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Typewriter Intro</title>
+
+  <!-- 引入 Inter 字体 -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
   <style>
     html, body {
       margin: 0;
       padding: 0;
-      background-color: #FAF8F8;
+      background-color: var(--bg-color);
     }
 
     .typewriter {
-      padding: 1.5rem;
-      border-radius: 8px;
-      font-family: 'Courier New', monospace;
+      padding: 2rem;
+      border-radius: 12px;
+      font-family: 'Inter', sans-serif;
       position: relative;
       min-height: 100px;
-      color: #333;
-      background-color: #FAF8F8;
-      box-shadow: none;
+      color: var(--text-color);
+      background-color: var(--bg-color);
     }
 
-    #text-container {
-      font-size: 1.5rem;
-      font-weight: bold;
-      line-height: 1.6;
-      white-space: pre-wrap;
-      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    #text-container div {
+      font-size: 1.1rem; /* 所有非高亮行的小字体 */
+      margin-bottom: 0.5rem;
     }
 
+    #text-container .highlight {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--highlight-color);
+      text-shadow: 0 0 5px var(--highlight-color);
+    }
     .cursor {
       display: inline-block;
       width: 8px;
       height: 1.5em;
-      background: #4CAF50;
+      background: var(--cursor-color);
       animation: blink 1s infinite;
       vertical-align: middle;
-      box-shadow: 0 0 4px rgba(76, 175, 80, 0.3);
+      box-shadow: 0 0 4px var(--cursor-color);
     }
 
     @keyframes blink {
@@ -43,33 +51,21 @@
       50% { opacity: 0; }
     }
 
-    @media (prefers-color-scheme: dark) {
-      html, body {
-        background-color: #161618;
-      }
-
-      .typewriter {
-        background-color: #161618;
-        color: #e0e0e0;
-      }
-
-      .cursor {
-        background: #4CAF50;
-      }
+    /* 默认（浅色）配色变量 */
+    :root {
+      --bg-color: #FAF8F8;
+      --text-color: #333;
+      --cursor-color: #2d2d2d;
+      --highlight-color: #008f11; /* 绿色 Matrix 风格 */
     }
 
-    @media (prefers-color-scheme: light) {
-      html, body {
-        background-color: #FAF8F8;
-      }
-
-      .typewriter {
-        background-color: #FAF8F8;
-        color: #333;
-      }
-
-      .cursor {
-        background: #2d2d2d;
+    /* 深色模式下变量 */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-color: #161618;
+        --text-color: #e0e0e0;
+        --cursor-color: #4CAF50;
+        --highlight-color: #00ff66;
       }
     }
   </style>
@@ -82,21 +78,22 @@
 
   <script>
     const config = {
-      text: `Hello, I'm Wenxiang He.
-            A recent graduate with a Bachelor of Science in Computing Science from Simon Fraser University.
-            I have strong interest in Full Stack Development, Artificial Intelligence, and Robotics.
-            I have hands-on experience in frontend, backend, mobile app development, and software testing.`,
-      typingSpeed: 50,
-      deleteSpeed: 80,
-      pauseDuration: 2000
+      lines: [
+        { text: "Hello, my name is "},
+        { text: "Wenxiang He.", highlight: true },
+        { text: "A recent graduate with a Bachelor of Science in Computing Science from Simon Fraser University." },
+        { text: "I have strong research and development background in Artificial Intelligence, Robotics, and Full Stack Development." },
+        { text: "I am currently working at China Petrochemical Corporation (Sinopec) on applying large-scale models to logging interpretation. Recently, I’ve been exploring DeepSeek, large model deployment strategies, and agent frameworks. Feel free to check them out!" }
+      ],
+      typingSpeed: 40
     };
 
     class TypeWriter {
       constructor() {
-        this.element = document.getElementById('text-container');
-        this.txt = '';
-        this.isDeleting = false;
-        this.lineCount = 0;
+        this.container = document.getElementById('text-container');
+        this.lineIndex = 0;
+        this.charIndex = 0;
+        this.currentSpan = null;
       }
 
       start() {
@@ -104,29 +101,29 @@
       }
 
       type() {
-        const fullText = config.text.split('\n')[this.lineCount] || '';
-        let typeSpeed = config.typingSpeed;
+        if (this.lineIndex < config.lines.length) {
+          const line = config.lines[this.lineIndex];
 
-        if (this.isDeleting) {
-          this.txt = fullText.substring(0, this.txt.length - 1);
-        } else {
-          this.txt = fullText.substring(0, this.txt.length + 1);
-        }
-
-        this.element.innerHTML = this.txt.replace(/\n/g, '<br>');
-
-        if (!this.isDeleting && this.txt === fullText) {
-          typeSpeed = config.pauseDuration;
-          this.isDeleting = true;
-        } else if (this.isDeleting && this.txt === '') {
-          this.isDeleting = false;
-          this.lineCount++;
-          if (this.lineCount >= config.text.split('\n').length) {
-            this.lineCount = 0;
+          if (!this.currentSpan) {
+            this.currentSpan = document.createElement('div');
+            if (line.highlight) {
+              this.currentSpan.classList.add('highlight');
+            }
+            this.container.appendChild(this.currentSpan);
           }
-        }
 
-        setTimeout(() => this.type(), typeSpeed);
+          if (this.charIndex < line.text.length) {
+            this.currentSpan.textContent += line.text[this.charIndex++];
+            setTimeout(() => this.type(), config.typingSpeed);
+          } else {
+            this.lineIndex++;
+            this.charIndex = 0;
+            this.currentSpan = null;
+            setTimeout(() => this.type(), config.typingSpeed);
+          }
+        } else {
+          document.querySelector('.cursor').style.display = 'none';
+        }
       }
     }
 
