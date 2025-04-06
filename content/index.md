@@ -30,7 +30,7 @@ title: Home 🏬
   .aspect-container {
     position: relative;
     width: 100%;
-    aspect-ratio: 4 / 4.5;
+    aspect-ratio: 4 / 5;
   }
 
   .aspect-container iframe,
@@ -154,11 +154,11 @@ title: Home 🏬
 
 
 
-### Content Catalogs Here 👇
+## Content Catalogs Here 👇
 
--  **[Experience](about/experience.md) : My educational background, work (co-op), and volunteering experiences;**
--  **[Projects](about/projects.md) : Personal and team projects I've developed;**
--  **[Courses](courses/) : Taken related to Computing Science;**
+-  **[Experience](about/experience.md) : Professional (co-op & research) experience, educational background, and volunteer;**
+-  **[Projects](about/projects.md) : Research and application projects developed individually and collaboratively;**
+-  **[Courses](courses/) : Influential Computing Science courses that shaped my learning journey;**
 -  **[Blogs](blogs/) : Thoughts and reflections from my learning journey.**
 -  **[Videos](Videos/) : That I find meaningful and useful.**
 
@@ -217,7 +217,7 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
   </div> -->
   
   <div class="item">
-    🏢 Currently working at <strong>China Petrochemical Corporation (Sinopec)</strong> on applying large-scale models to logging interpretation. Recently exploring <strong>DeepSeek</strong>, large model deployment strategies, and agent frameworks.
+    🏢 Currently working at <a href="http://www.sinopecgroup.com/group/en/" target="_blank"><strong>China Sinopec Geophysical Co., Ltd.</strong></a> on applying large-scale models to logging interpretation. Recently exploring <strong>DeepSeek</strong>, large model deployment strategies, and agent frameworks.
     <div class="item-date">Spring 2025 – Present</div>
   </div>
 
@@ -229,27 +229,27 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
 
 
   <div class="item">
-    👨‍🏫 Served as a <strong>Teaching Assistant</strong> for <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt120/home" target="_blank">CMPT 120 – Python Programming</a> with <a href="https://www.sfu.ca/computing/people/faculty/brianfraser.html" target="_blank">Dr. Brian Fraser</a> at <strong>Simon Fraser University</strong>.
+    👨‍🏫 Worked as a <strong>Teaching Assistant</strong> for <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt120/home" target="_blank">CMPT 120 – Python Programming</a> with <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/brian-fraser.html" target="_blank">Dr. Brian Fraser</a> at <strong>Simon Fraser University</strong>.
     <div class="item-date">Fall 2024</div>
   </div>
 
   <div class="item">
-    👨‍🏫 Worked as a <strong>Research Assistant</strong> at the <a href="https://robotics.sfu.ca/mars.html" target="_blank">SFU <strong>MARS Lab</strong></a>, working on robotics systems and reinforcement learning experiments.
-    <div class="item-date">Summer 2024 – Fall 2024</div>
-  </div>
-
-  <div class="item">
-    🏢 Worked as a QA tester on <a href="https://www.dsti.gov.sl/prestrack/" target="_blank"><strong>Prestrack</strong></a>, a new software project developed by the <a href="https://www.dsti.com/" target="_blank"><strong>Directorate of Science, Technology and Innovation (DSTI)</strong></a>, Sierra Leone.
+    👨‍🏫 Worked as a <strong>Undergraduate Research Assistant</strong> at <a href="https://robotics.sfu.ca/mars.html" target="_blank"> <strong>The Multi-Agent Robotic Systems (MARS) Lab</strong></a> at <strong>Simon Fraser University</strong>, working on an NSERC USRA-funded project about robotics systems and reinforcement learning experiments, under the guidance of <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/mo-chen.html" target="_blank"><strong>Professor Mo Chen</strong></a>.
     <div class="item-date">Summer 2024</div>
   </div>
 
   <div class="item">
-    🧑‍💻 Completed a software engineering project developing the <a href="https://github.com/drbfraser/CRADLE-Platform" target="_blank"><strong>iCradle Health Care System</strong></a>, a support platform for maternal care, under the guidance of <a href="https://www.sfu.ca/computing/people/faculty/brianfraser.html" target="_blank"><strong>Dr. Brian Fraser</strong></a>.
+    🏢 Worked as a <strong>Software Test Engineer</strong> at <a href="https://www.dsti.gov.sl/prestrack/" target="_blank"><strong>Prestrack</strong></a>, a Pregnancy Registration and Service Tracking application developed by the <a href="https://www.dsti.com/" target="_blank"><strong>Directorate of Science, Technology and Innovation (DSTI), Sierra Leone.</strong></a>
     <div class="item-date">Summer 2024</div>
   </div>
 
   <div class="item">
-    🏢 Worked at <strong>Shandong Leading Petro-Tech, Sinopec</strong> as a Full Stack Developer, building internal platforms and systems.
+    🧑‍💻 Contributed the development of the <a href="https://github.com/drbfraser/CRADLE-Platform" target="_blank"><strong>iCradle Health Care System</strong></a>, a vital signs monitor, alert and support system for pregnant women, under the guidance of <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/brian-fraser.html" target="_blank"><strong>Dr. Brian Fraser</strong></a>.
+    <div class="item-date">Summer 2024</div>
+  </div>
+
+  <div class="item">
+    🏢 Worked as a <strong>Full Stack Software Developer</strong> at <a href="https://robotics.sfu.ca/mars.html" target="_blank"><strong>Shandong Leading Petro-Tech, Shengli Oilfield Group, Sinopec</strong> </a> , building internal Civil Explosive Product Monitoring System.
     <div class="item-date">Spring 2024</div>
   </div>
 
@@ -303,12 +303,19 @@ This is my digital space where I share my experiences, projects, thoughts, and s
   <div class="section-title">More About Me</div>
 
   <div class="misc-item">
-    <span>🏸</span> In my free time, I enjoy playing badminton, where I serve as a Teaching Assistant at <a href="https://www.stage18badminton.com/" target="_blank">Stage 18 Badminton Centre</a>.
+    <span>🏸</span> In my free time, I enjoy playing badminton, and I am honored to serve as a Coach Assistant at <a href="https://www.stage18badminton.com/" target="_blank">Stage 18 Badminton Centre</a>.
   </div>
 
   <div class="misc-item">
     <span>✈️</span> I also enjoy traveling and discovering new places and food.
   </div>
+
+  <!-- <div class="misc-item">
+    <span>✈️</span> I also enjoy traveling and discovering new places and food.
+    <div style="margin-top:10px;">
+      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TzAogw9WdBpqfcF7DXFh2eVEO_AIDns&ehbc=2E312F" width="640" height="480"></iframe>
+    </div>
+  </div> -->
 
   <div class="misc-item">
     <span>💻</span> This is my digital space where I share my experiences, projects, thoughts, and more.
@@ -325,7 +332,7 @@ This is my digital space where I share my experiences, projects, thoughts, and s
 </div>
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwha61.github.io%2FPortfolio%2F&count_bg=%23848D7D&title_bg=%2343D7D7&icon=&icon_color=%23000000&title=Total+view&edge_flat=false)
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwha61.github.io%2FPortfolio%2F&count_bg=%23848D7D&title_bg=%2343D7D7&icon=&icon_color=%23000000&title=Total+view&edge_flat=false) -->
 
 
 

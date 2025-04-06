@@ -10,7 +10,7 @@ Experience consists of my recent education, work experience, volunteer experienc
 
 > **Simon Fraser University** (Sep. 2020 - Dec. 2024) <br>
 > Bachelor of Science, Computing Science  <br>
-> **UDCGPA: 3.6/4.33** <br>
+> **UDCGPA: 3.65/4.33** <br>
 
 # Work Experience
 
