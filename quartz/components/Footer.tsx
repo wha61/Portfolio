@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
-        <p>
+        {/* <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
@@ -24,7 +24,11 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
-        </ul>
+        </ul> */}
+
+        <div style="text-align: center; font-size: 0.9em; margin-top: 1em;">
+          Designed by Wenxiang He. All rights reserved. This design is original and created for personal use.
+        </div>
       </footer>
     )
   }
