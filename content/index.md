@@ -217,42 +217,42 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
   </div> -->
   
   <div class="item">
-      <span style="font-size: 2rem; vertical-align: middle;">🛢️</span> Currently working at <a href="http://www.sinopecgroup.com/group/en/" target="_blank"><strong>China Sinopec Geophysical Co., Ltd.</strong></a> on applying large-scale models to logging interpretation. Recently exploring <strong>DeepSeek</strong>, large model deployment strategies, and agent frameworks.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🛢️</span> Currently working at <a href="http://www.sinopecgroup.com/group/en/" target="_blank"><strong>China Sinopec Geophysical Co., Ltd.</strong></a> on applying large-scale models to logging interpretation. Recently exploring <strong>DeepSeek</strong>, large model deployment strategies, and agent frameworks.
       <div class="item-date">Spring 2025 – Present</div>
   </div>
 
   <div class="item">
-      <span style="font-size: 2rem; vertical-align: middle;">🎓</span> Graduated with degree <strong>Bachelor of Science in Computing Science</strong> from <strong>Simon Fraser University</strong>.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🎓</span> Graduated with degree <strong>Bachelor of Science in Computing Science</strong> from <strong>Simon Fraser University</strong>.
       <div class="item-date">December 2024</div>
   </div>
 
   <div class="item">
-      <span style="font-size: 2rem; vertical-align: middle;">👨‍🏫</span> Worked as a <strong>Teaching Assistant</strong> for <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt120/home" target="_blank">CMPT 120 – Python Programming</a> with <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/brian-fraser.html" target="_blank">Dr. Brian Fraser</a> at <strong>Simon Fraser University</strong>.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">👨‍🏫</span> Worked as a <strong>Teaching Assistant</strong> for <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt120/home" target="_blank">CMPT 120 – Python Programming</a> with <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/brian-fraser.html" target="_blank">Dr. Brian Fraser</a> at <strong>Simon Fraser University</strong>.
       <div class="item-date">Fall 2024</div>
   </div>
 
   <div class="item">
-      <span style="font-size: 2rem; vertical-align: middle;">👨‍🏫</span> Worked as an <strong>Undergraduate Research Assistant</strong> at <a href="https://robotics.sfu.ca/mars.html" target="_blank"><strong>The Multi-Agent Robotic Systems (MARS) Lab</strong></a> at <strong>Simon Fraser University</strong>, working on an NSERC USRA-funded project about robotics systems and reinforcement learning experiments, under the guidance of <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/mo-chen.html" target="_blank"><strong>Professor Mo Chen</strong></a>.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">👨‍🏫</span> Worked as an <strong>Undergraduate Research Assistant</strong> at <a href="https://robotics.sfu.ca/mars.html" target="_blank"><strong>The Multi-Agent Robotic Systems (MARS) Lab</strong></a> at <strong>Simon Fraser University</strong>, working on an NSERC USRA-funded project about robotics systems and reinforcement learning experiments, under the guidance of <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/mo-chen.html" target="_blank"><strong>Professor Mo Chen</strong></a>.
       <div class="item-date">Summer 2024</div>
   </div>
 
   <div class="item">
-      <span style="font-size: 2rem; vertical-align: middle;">🏢</span> Worked as a <strong>Software Test Engineer</strong> at <a href="https://www.dsti.gov.sl/prestrack/" target="_blank"><strong>Prestrack</strong></a>, a Pregnancy Registration and Service Tracking application developed by the <a href="https://www.dsti.com/" target="_blank"><strong>Directorate of Science, Technology and Innovation (DSTI), Sierra Leone</strong></a>.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🏢</span> Worked as a <strong>Software Test Engineer</strong> at <a href="https://www.dsti.gov.sl/prestrack/" target="_blank"><strong>Prestrack</strong></a>, a Pregnancy Registration and Service Tracking application developed by the <a href="https://www.dsti.com/" target="_blank"><strong>Directorate of Science, Technology and Innovation (DSTI), Sierra Leone</strong></a>.
       <div class="item-date">Summer 2024</div>
   </div>
 
   <div class="item">
-      <span style="font-size: 2rem; vertical-align: middle;">🧑‍💻</span> Contributed to the development of the <a href="https://github.com/drbfraser/CRADLE-Platform" target="_blank"><strong>iCradle Health Care System</strong></a>, a vital signs monitor, alert and support system for pregnant women, under the guidance of <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/brian-fraser.html" target="_blank"><strong>Dr. Brian Fraser</strong></a>.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🧑‍💻</span> Contributed to the development of the <a href="https://github.com/drbfraser/CRADLE-Platform" target="_blank"><strong>iCradle Health Care System</strong></a>, a vital signs monitor, alert and support system for pregnant women, under the guidance of <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/brian-fraser.html" target="_blank"><strong>Dr. Brian Fraser</strong></a>.
       <div class="item-date">Summer 2024</div>
   </div>
 
   <div class="item">
-      <span style="font-size: 2rem; vertical-align: middle;">🛢️</span> Worked as a <strong>Full Stack Software Developer</strong> at <a href="https://robotics.sfu.ca/mars.html" target="_blank"><strong>Shandong Leading Petro-Tech, Shengli Oilfield Group, Sinopec</strong></a>, building an internal Civil Explosive Product Monitoring System.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🛢️</span> Worked as a <strong>Full Stack Software Developer</strong> at <a href="https://robotics.sfu.ca/mars.html" target="_blank"><strong>Shandong Leading Petro-Tech, Shengli Oilfield Group, Sinopec</strong></a>, building an internal Civil Explosive Product Monitoring System.
       <div class="item-date">Spring 2024</div>
   </div>
 
   <div class="item">
-      <span style="font-size: 2rem; vertical-align: middle;">🛢️</span> Worked as a <strong>Logging Interpretation and System Operations Intern</strong> at <strong>China Sinopec Geophysical Co., Ltd.</strong>, focusing on logging data processing, Oracle Database, and Linux-based storage systems.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🛢️</span> Worked as a <strong>Logging Interpretation and System Operations Intern</strong> at <strong>China Sinopec Geophysical Co., Ltd.</strong>, focusing on logging data processing, Oracle Database, and Linux-based storage systems.
       <div class="item-date">Summer 2021</div>
   </div>
 
