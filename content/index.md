@@ -208,7 +208,7 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
 </style>
 
 <div class="section">
-  <div class="section-title">Experience (Updated Regularly 🔄)</div>
+  <div class="section-title">------Experience (Updated Regularly 🔄)------</div>
 
 
   <!-- <div class="item">
@@ -261,7 +261,207 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
     ☁️ Currently pursuing the <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><strong>AWS Certified Cloud Practitioner Certification</strong></a>.
     <div class="item-date">In Progress</div>
   </div> -->
+
+  <!-- 🔗 Bottom Centered Button -->
+<div style="text-align: center; margin-top: 2.5rem;">
+  <a href="https://wenxianghe.com/about/experience" target="_blank" class="project-button-link">
+    🔗 View All Experience
+  </a>
 </div>
+</div>
+
+
+
+
+
+
+
+<style>
+  .featured-project-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 36px;
+    margin: 3rem 0 4rem 0;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .project-image-container {
+    position: relative; /* 用于定位文字提示 */
+    flex: 1 1 45%;
+    max-width: 540px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    margin: 0 auto;
+  }
+
+  .project-image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+    filter: brightness(0.6); /* 默认微微暗 */
+    transition: all 0.4s ease;
+  }
+
+  .project-image-container:hover img {
+    filter: brightness(1) contrast(1); /* 鼠标悬停增强亮度/对比 */
+  }
+
+  /* 📍 中间提示文字 */
+  .project-image-container .hover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+  }
+
+  .project-image-container:hover .hover-text {
+    opacity: 1;
+  }
+
+  .project-text-container {
+    flex: 1 1 50%;
+    max-width: 620px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    margin-top: -1rem;
+  }
+
+  .project-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-color); /* ✅ 使用主题变量替代硬编码颜色 */
+  }
+
+  .project-desc-box {
+    background-color: var(--desc-bg, #1e293b);
+    padding: 1rem 1.2rem;
+    border-radius: 10px;
+    font-size: 0.95rem;
+    color: var(--desc-text, #e5e7eb);
+    line-height: 1.6;
+  }
+
+  .project-tech {
+    font-size: 0.8rem;
+    font-family: monospace;
+    color: var(--tech-color, #6b7280);
+    margin-top: 0.2rem;
+  }
+
+  a[href^="http"]::after {
+    display: none !important;
+  }
+
+  @media (max-width: 768px) {
+    .featured-project-container {
+      flex-direction: column;
+      text-align: left;
+    }
+
+    .project-text-container {
+      margin-top: 1rem;
+    }
+  }
+
+  /* 🔘 Button-style link (outlined, adaptive) */
+  .project-button-link {
+    display: inline-block;
+    border: 2px solid #2563eb;
+    color: #2563eb;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+
+  .project-button-link:hover {
+    background-color: rgba(37, 99, 235, 0.1);
+  }
+
+  @media (prefers-color-scheme: light) {
+    .project-button-link {
+      color: #1d4ed8;
+      border-color: #1d4ed8;
+    }
+
+    .project-button-link:hover {
+      background-color: rgba(29, 78, 216, 0.1);
+    }
+  }
+</style>
+
+<div class="section">
+  <div class="section-title">------Featured Projects------</div>
+</div>
+
+<!-- 💻 Civil Explosive Monitoring System -->
+<div class="featured-project-container">
+  <a href="https://wenxianghe.com/about/projects#civil-explosive-product-monitoring-system" class="project-image-container" target="_blank">
+    <img src="pics/cems-main.png" alt="Civil Explosive Monitoring System Screenshot" />
+    <div class="hover-text">Click for details</div>
+  </a>
+
+
+  <div class="project-text-container">
+    <!-- <div class="project-subtitle">Featured Project</div> -->
+    <div class="project-title">Civil Explosive Product Monitoring System</div>
+    <div class="project-desc-box">
+      A Domain-Driven Design (DDD) architectual patten based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp), integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control.
+    </div>
+    <div class="project-tech">
+      ASP.NET (C#) · ABP Framework · MS SQL Server · React · AntDesignPro · UMI · Docker · Kubernetes · GitLab Actions
+    </div>
+  </div>
+</div>
+
+
+
+<!-- 💻 Featured Project Card -->
+<div class="featured-project-container">
+
+  <a href="https://wenxianghe.com/about/projects#icradle-health-care-system" class="project-image-container" target="_blank">
+    <img src="pics/cradle.png" alt="iCradle Health Care System Screenshot" />
+    <div class="hover-text">Click for details</div>
+  </a>
+
+  <div class="project-text-container">
+    <!-- <div class="project-subtitle">Featured Project</div> -->
+    <div class="project-title">iCradle Health Care System</div>
+    <div class="project-desc-box">
+      A health care delivery support system designed to assist pregnant women in the Bidi Bidi refugee settlement in Uganda and manage medical patient referrals in Sierra Leone. 
+    </div>
+    <div class="project-tech">
+      Python · Flask · React · TypeScript · Kotlin · Cypress · Detekt · CI/CD · GitHub Enterprise · Scrum · Kanban
+    </div>
+  </div>
+</div>
+
+
+<!-- 🔗 Bottom Centered Button -->
+<div style="text-align: center; margin-top: 2.5rem;">
+  <a href="https://wenxianghe.com/about/projects" target="_blank" class="project-button-link">
+    🔗 View All Projects
+  </a>
+</div>
+
+
+
+
 
 
 <!-- In my free time, I enjoy playing badminton, where I serve as a Teaching Assistant at [Stage 18 Badminton Centre](https://www.stage18badminton.com/), traveling, and eating delicious food.
