@@ -527,6 +527,21 @@ This is my digital space where I share my experiences, projects, thoughts, and s
 </div>
 
 
+<!-- 🌐 Embedded Website: HammyHome -->
+<div class="section">
+  <div class="section-title">Digital pet: Hammy</div>
+  <div style="position: relative; width: 100%; padding-top: 60%;">
+    <iframe 
+      src="https://hammyhome.com/" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+      loading="lazy"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+
+
 <div id="clustrmaps-container">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/globe.js?d=_RARPnJtxhnMzNqgUJkwyY4L1L6xzx8JiPcO6AsEnY0"></script>
 </div>
