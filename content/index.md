@@ -161,6 +161,7 @@ title: Home 🏬
 -  **[Courses](courses/) : Influential Computing Science courses that shaped my learning journey;**
 -  **[Blogs](blogs/) : Thoughts and reflections from my learning journey.**
 -  **[Videos](Videos/) : That I find meaningful and useful.**
+-  **[Links](Link/) : Unimportant links**
 
 <!-- I am a Full Stack Software Developer with expertise in frontend, backend, and database management, as well as mobile app development and software testing. My strong interest and proficiency extend to Machine Learning, Artificial Intelligence, Computer Vision, and Robotics Systems.
 
@@ -237,7 +238,7 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
   </div>
 
   <div class="item">
-      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🏢</span> Worked as a <strong>Software Test Engineer</strong> at <a href="https://www.dsti.gov.sl/prestrack/" target="_blank"><strong>Prestrack</strong></a>, a Pregnancy Registration and Service Tracking application developed by the <a href="https://www.dsti.com/" target="_blank"><strong>Directorate of Science, Technology and Innovation (DSTI), Sierra Leone</strong></a>.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🏢</span> Worked as a <strong>Software Test Engineer</strong> at <a href="https://www.dsti.gov.sl/prestrack/" target="_blank"><strong>Prestrack</strong></a>, a Pregnancy Registration and Service Tracking application developed by the <a href="https://www.dsti.gov.sl/" target="_blank"><strong>Directorate of Science, Technology and Innovation (DSTI), Sierra Leone</strong></a>.
       <div class="item-date">Summer 2024</div>
   </div>
 
