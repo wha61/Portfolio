@@ -7,7 +7,13 @@ let spokenText = ""
 // 1. 初始化摄像头
 async function initCamera() {
   try {
-    mediaStream = await navigator.mediaDevices.getUserMedia({ video: true, audio: false });
+    // mediaStream = await navigator.mediaDevices.getUserMedia({ video: true, audio: false });
+    mediaStream = await navigator.mediaDevices.getUserMedia({
+    video: {
+        facingMode: { exact: "environment" } // 指定使用后置摄像头
+    },
+    audio: false
+    });
     video.srcObject = mediaStream;
   } catch (err) {
     alert("❌ 无法访问摄像头：" + err.message);
