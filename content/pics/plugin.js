@@ -73,7 +73,7 @@ async function handleCaptureAndSend(userText) {
   const imageBase64 = canvas.toDataURL("image/jpeg").split(",")[1];
 
   try {
-    const response = await fetch("https://e044b53de845.ngrok-free.app/api/image-analyze", {
+    const response = await fetch("https://d23c715ecb87.ngrok-free.app/api/image-analyze", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
