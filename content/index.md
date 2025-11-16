@@ -1,5 +1,5 @@
 ---
-title: Home 🏬
+title: Good things take time 
 ---
 
 
@@ -209,17 +209,40 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
 </style>
 
 <div class="section">
-  <div class="section-title">------Experience (Updated Regularly 🔄)------</div>
+  <div class="section-title">------Experience (Updated Regularly)------</div>
 
 
   <!-- <div class="item">
     💻 <strong>Full Stack Software Developer</strong> experienced in frontend, backend, database design, mobile app development, and software testing. Also passionate about <strong>Machine Learning</strong>, <strong>Artificial Intelligence</strong>, <strong>Computer Vision</strong>, and <strong>Robotics Systems</strong>.
     <div class="item-date">Ongoing</div>
   </div> -->
+
+  <div class="item">
+    <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">👨‍🏫</span>
+    Currently working as a <strong>Teaching Assistant</strong> for 
+    <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt213/home" target="_blank">
+        CMPT 213 – Object-Oriented Programming in Java
+    </a>
+    and 
+    <a href="https://opencoursehub.cs.sfu.ca/cmpt201/grav/home/d2-brian" target="_blank">
+        CMPT 201 – Systems Programming
+    </a> 
+    at <strong>Simon Fraser University</strong>.
+    <div class="item-date">Fall 2025 – Present</div>
+  </div>
   
   <div class="item">
-      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🛢️</span> Currently working at <a href="http://www.sinopecgroup.com/group/en/" target="_blank"><strong>China Sinopec Geophysical Co., Ltd.</strong></a> on applying large-scale models to logging interpretation. Recently exploring <strong>DeepSeek</strong>, large model deployment strategies, and agent frameworks.
-      <div class="item-date">Spring 2025 – Present</div>
+    <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🎓</span> 
+    Started the <strong>Master of Professional Computer Science (Big Data)</strong> program at 
+    <a href="https://www.sfu.ca/" target="_blank"><strong>Simon Fraser University</strong></a>, 
+    focusing on Big Data systems, AI safety, and LLM jailbreak research.
+    <div class="item-date">Fall 2025 – Present</div>
+  </div>
+
+
+  <div class="item">
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🛢️</span> Worked at <a href="http://www.sinopecgroup.com/group/en/" target="_blank"><strong>China Sinopec Geophysical Co., Ltd.</strong></a> helping build internal systems for training and deploying enterprise LLMs.
+      <div class="item-date">Spring 2025 – Summer 2025</div>
   </div>
 
   <div class="item">
@@ -407,8 +430,34 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
 </style>
 
 <div class="section">
-  <div class="section-title">------Featured Projects------</div>
+  <div class="section-title">------Featured Research and Projects 
+------</div>
 </div>
+
+<!-- 🧠 LLM Jailbreak & Safety Research -->
+<div class="featured-project-container">
+
+  <a href="https://wenxianghe.com/about/projects#llm-jailbreak-research" class="project-image-container" target="_blank">
+    <img src="pics/llm-jailbreak.png" alt="LLM Jailbreak Research Screenshot" />
+    <div class="hover-text">Click for details</div>
+  </a>
+
+  <div class="project-text-container">
+    <div class="project-title">LLM Jailbreak & Safety Evaluation Research</div>
+    <div class="project-desc-box">
+      A systematic research project focused on evaluating and bypassing safety mechanisms in modern large language models 
+      (LLMs). The work explores multi-stage jailbreak pipelines, adversarial prompting, safety-aligned system prompt 
+      manipulation, and automated template → slot filling frameworks.  
+      <br><br>
+      Includes experiments across GPT-4/5 series, Claude models, Gemini 2.0/2.5, and Qwen2.5, with an emphasis on 
+      safety-evasion patterns, robustness evaluation, and long-context jailbreak behavior.
+    </div>
+    <div class="project-tech">
+      Python · PyTorch · OpenAI API · Anthropic API · Gemini API · Prompt Engineering · LLM Safety Evaluation · Multi-Stage Jailbreak Pipelines
+    </div>
+  </div>
+</div>
+
 
 <!-- 💻 Civil Explosive Monitoring System -->
 <div class="featured-project-container">
