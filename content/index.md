@@ -218,8 +218,28 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
   </div> -->
 
   <div class="item">
+    <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">🔬</span>
+    Currently working  as an <strong>Independent Researcher</strong> at 
+    <a href="https://sfu-tai.github.io/people#mentor_div" target="_blank">
+        <strong>SFU T.A.I. Lab</strong>
+    </a>, focusing on 
+    <strong>AI Red Teaming</strong> and Large Language Model Safety.
+    <div class="item-date">Spring 2026 – Present</div>
+  </div>
+
+  <div class="item">
     <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">👨‍🏫</span>
     Currently working as a <strong>Teaching Assistant</strong> for 
+    <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt213/home" target="_blank">
+        CMPT 213 – Object-Oriented Programming in Java
+    </a>
+    at <strong>Simon Fraser University</strong>.
+    <div class="item-date">Spring 2026 – Present</div>
+  </div>
+
+  <div class="item">
+    <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">👨‍🏫</span>
+    Worked as a <strong>Teaching Assistant</strong> for 
     <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt213/home" target="_blank">
         CMPT 213 – Object-Oriented Programming in Java
     </a>
@@ -228,7 +248,7 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
         CMPT 201 – Systems Programming
     </a> 
     at <strong>Simon Fraser University</strong>.
-    <div class="item-date">Fall 2025 – Present</div>
+    <div class="item-date">Fall 2025</div>
   </div>
   
   <div class="item">
@@ -437,7 +457,7 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
 <!-- 🧠 LLM Jailbreak & Safety Research -->
 <div class="featured-project-container">
 
-  <a href="https://wenxianghe.com/about/projects#llm-jailbreak-research" class="project-image-container" target="_blank">
+  <a href="" class="project-image-container" target="_blank">
     <img src="pics/llm-jailbreak.png" alt="LLM Jailbreak Research Screenshot" />
     <div class="hover-text">Click for details</div>
   </a>
@@ -445,12 +465,9 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
   <div class="project-text-container">
     <div class="project-title">LLM Jailbreak & Safety Evaluation Research</div>
     <div class="project-desc-box">
-      A systematic research project focused on evaluating and bypassing safety mechanisms in modern large language models 
-      (LLMs). The work explores multi-stage jailbreak pipelines, adversarial prompting, safety-aligned system prompt 
-      manipulation, and automated template → slot filling frameworks.  
+      A systematic research project focused on evaluating and bypassing safety mechanisms in modern large language models. I am developing a multi-mechanism jailbreak pipeline that integrates adversarial prompting, system prompt manipulation, and an automated "template-to-slot" filling framework. 
       <br><br>
-      Includes experiments across GPT-4/5 series, Claude models, Gemini 2.0/2.5, and Qwen2.5, with an emphasis on 
-      safety-evasion patterns, robustness evaluation, and long-context jailbreak behavior.
+      The approach is currently being evaluated on state-of-the-art frontier models from OpenAI, Google, and Anthropic, with a primary objective of achieving a high Attack Success Rate (ASR) through large-scale batch testing.
     </div>
     <div class="project-tech">
       Python · PyTorch · OpenAI API · Anthropic API · Gemini API · Prompt Engineering · LLM Safety Evaluation · Multi-Stage Jailbreak Pipelines
