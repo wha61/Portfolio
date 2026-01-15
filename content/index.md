@@ -156,7 +156,7 @@ title: Good things take time
 
 ## Content Catalogs Here 👇
 
--  **[Experience](about/experience.md) : Professional (co-op & research) experience, educational background, and volunteer;**
+-  **[Experience](about/experience.md) : Professional (work & research) experience, educational background, and as a volunteer;**
 -  **[Projects](about/projects.md) : Research and application projects developed individually and collaboratively;**
 -  **[Courses](courses/) : Influential Computing Science courses that shaped my learning journey;**
 -  **[Blogs](blogs/) : Thoughts and reflections from my learning journey.**
@@ -240,13 +240,13 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
   <div class="item">
     <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">👨‍🏫</span>
     Worked as a <strong>Teaching Assistant</strong> for 
-    <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt213/home" target="_blank">
-        CMPT 213 – Object-Oriented Programming in Java
-    </a>
-    and 
     <a href="https://opencoursehub.cs.sfu.ca/cmpt201/grav/home/d2-brian" target="_blank">
         CMPT 201 – Systems Programming
     </a> 
+    and 
+    <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt213/home" target="_blank">
+        CMPT 213 – Object-Oriented Programming in Java
+    </a>
     at <strong>Simon Fraser University</strong>.
     <div class="item-date">Fall 2025</div>
   </div>
@@ -276,7 +276,16 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
   </div>
 
   <div class="item">
-      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">👨‍🏫</span> Worked as an <strong>Undergraduate Research Assistant</strong> at <a href="https://robotics.sfu.ca/mars.html" target="_blank"><strong>The Multi-Agent Robotic Systems (MARS) Lab</strong></a> at <strong>Simon Fraser University</strong>, working on an NSERC USRA-funded project about robotics systems and reinforcement learning experiments, under the guidance of <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/mo-chen.html" target="_blank"><strong>Professor Mo Chen</strong></a>.
+      <span style="display: inline-flex; align-items: center; font-size: 1.5rem; height: 1em;">👨‍🏫</span> Worked as an <strong>Undergraduate Research Assistant</strong> at <a href="https://robotics.sfu.ca/mars.html" target="_blank"><strong>The Multi-Agent Robotic Systems (MARS) Lab</strong></a> at <strong>Simon Fraser University</strong>, working on an NSERC USRA-funded project about robotics systems and reinforcement learning experiments, under the guidance of <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/mo-chen.html" target="_blank"><strong>Professor Mo Chen</strong></a> and <a href="https://hu-hanyang.github.io/" target="_blank"><strong>Phd student Hanyang Hu</strong></a>.
+      <br>
+      <br>
+      <div style="margin-left: 2.2rem; font-size: 0.95em; color: #555;">
+          <span style="margin-right: 4px;">📄</span>
+          <strong>Paper:</strong> 
+          <a href="https://arxiv.org/pdf/2409.19746" target="_blank" style="text-decoration: underline; color: #12b615ff;">
+              Learning Robust Policies via Interpretable Hamilton-Jacobi Reachability-Guided Disturbances
+          </a>
+      </div>
       <div class="item-date">Summer 2024</div>
   </div>
 
@@ -463,14 +472,37 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
   </a>
 
   <div class="project-text-container">
-    <div class="project-title">LLM Jailbreak & Safety Evaluation Research</div>
+    <div class="project-title">LLM Jailbreak & Safety Evaluation Research -- (JRPO)</div>
     <div class="project-desc-box">
-      A systematic research project focused on evaluating and bypassing safety mechanisms in modern large language models. I am developing a multi-mechanism jailbreak pipeline that integrates adversarial prompting, system prompt manipulation, and an automated "template-to-slot" filling framework. 
+      A systematic research focused on evaluating and bypassing safety mechanisms in modern large language models. 
       <br><br>
-      The approach is currently being evaluated on state-of-the-art frontier models from OpenAI, Google, and Anthropic, with a primary objective of achieving a high Attack Success Rate (ASR) through large-scale batch testing.
+      I am developing a multi-mechanism jailbreak pipeline that integrates adversarial prompting, system prompt manipulation, and an automated "template-to-slot" filling framework. 
+      <br><br>
+      The approach is currently being evaluated on frontier models from OpenAI, Google, and Anthropic, with a primary objective of achieving a high Attack Success Rate (ASR) through large-scale batch testing.
     </div>
     <div class="project-tech">
       Python · PyTorch · OpenAI API · Anthropic API · Gemini API · Prompt Engineering · LLM Safety Evaluation · Multi-Stage Jailbreak Pipelines
+    </div>
+  </div>
+</div>
+
+<div class="featured-project-container">
+  <a href="https://github.com/wha61/Large-Scale-Sentiment-and-Topic-Analysis-of-Amazon-Product" class="project-image-container" target="_blank">
+    <img src="pics/amazon-sentiment.png" alt="Amazon Sentiment Analysis Project Screenshot" />
+    <div class="hover-text">Click for details</div>
+  </a>
+
+  <div class="project-text-container">
+    <div class="project-title">Large-Scale Sentiment & Topic Analysis of Amazon Reviews</div>
+    <div class="project-desc-box">
+      A large-scale data analysis system designed to process over 571 million Amazon reviews, aiming to understand both individual customer opinions and broader economic trends.
+      <br><br>
+      Built a pipeline using PySpark and AI models (BERT) to automatically analyze sentiment, identify common discussion topics, and detect suspicious user behaviors like spamming.
+      <br><br>
+      The project features an interactive web dashboard that visualizes these insights, exploring interesting connections between consumer satisfaction and real-world economic indicators like inflation.
+    </div>
+    <div class="project-tech">
+      Python · Apache Spark (PySpark) · Hadoop/YARN · PyTorch · Transformers (BERT) · BERTopic · Flask · UMAP · Pandas · Data Visualization
     </div>
   </div>
 </div>
@@ -488,7 +520,9 @@ I am also pursuing the [AWS Certified Cloud Practitioner Certification](https://
     <!-- <div class="project-subtitle">Featured Project</div> -->
     <div class="project-title">Civil Explosive Product Monitoring System</div>
     <div class="project-desc-box">
-      A Domain-Driven Design (DDD) architectual patten based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp), integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control.
+      A Domain-Driven Design (DDD) architectual patten based system engineered to streamline the monitoring and management of civil explosive products for Sinopec (China Petrochemical Corp).
+     <br><br>
+     Integrates comprehensive functionalities including product registration, tracking, security management, license approval, and inventory control.
     </div>
     <div class="project-tech">
       ASP.NET (C#) · ABP Framework · MS SQL Server · React · AntDesignPro · UMI · Docker · Kubernetes · GitLab Actions
